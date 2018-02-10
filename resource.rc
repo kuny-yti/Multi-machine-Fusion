@@ -1,0 +1,45 @@
+#if defined(UNDER_CE)
+#include <winbase.h>
+#else
+#include <winver.h>
+#endif
+
+IDI_ICON1               ICON     DISCARDABLE   "./ui/Resources/yantu.ico"
+
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1,3,0,1
+PRODUCTVERSION 1,3,1,0
+FILEFLAGSMASK 0x3fL
+
+#ifdef _DEBUG
+FILEFLAGS VS_FF_DEBUG
+#else
+FILEFLAGS 0x0L
+#endif
+
+FILEOS VOS__WINDOWS32
+FILETYPE VFT_DLL
+FILESUBTYPE 0x0L
+
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "YanTu"
+            VALUE "FileDescription", "Fusion System"
+            VALUE "FileVersion", "1.3.0.1"
+            VALUE "InternalName", "Fusion.exe"
+            VALUE "LegalCopyright", "Copyright (C)2012-2015"
+            VALUE "OriginalFilename", "Fusion.exe"
+            VALUE "ProductName", "Fusion"
+            VALUE "ProductVersion", "1.3.1.0"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END

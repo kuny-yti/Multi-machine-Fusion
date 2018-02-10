@@ -1,0 +1,3811 @@
+15:25:01 [INFO] -----------------------------------
+15:25:01 [INFO]            Fusion System.          
+15:25:01 [INFO]           vision (_v1.3.1)     
+15:25:01 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:25:01 [INFO]           www.ytsmart.net          
+15:25:01 [INFO] -----------logging begin-----------
+15:25:01 [INFO] append windows start = 2
+15:25:01 [INFO] Tray install success.
+15:25:03 [INFO] load data.
+15:25:03 [INFO] select color device id = 0
+15:25:03 [INFO] select image local = :/image/symbol.png
+15:25:03 [INFO] select media = D:/20121120-AVI_bak.mp4
+15:25:03 [INFO] select blend device id = 2
+15:25:03 [INFO] begin opengl .
+15:25:03 [INFO] load data success.
+15:25:04 [INFO] opengl initialize.
+15:25:04 [INFO] opengl load data.
+15:25:04 [INFO] opengl handle image load success.
+15:25:04 [INFO] opengl render load success.
+15:25:04 [INFO] opengl coord data load success.
+15:25:04 [INFO] opengl blend data load success.
+15:25:04 [INFO] player open movie.
+15:25:04 [INFO] opengl load data success.
+15:25:06 [INFO] player play .
+15:25:10 [INFO] end opengl .
+15:25:10 [INFO] Tray uninstall success.
+15:25:10 [INFO] ------------logging end------------
+15:25:10 [INFO]         exit fusion system.        
+15:25:10 [INFO] -----------------------------------
+15:25:10 [INFO] 
+
+
+15:25:10 [INFO] Tray uninstall success.
+15:28:37 [INFO] -----------------------------------
+15:28:37 [INFO]            Fusion System.          
+15:28:37 [INFO]           vision (_v1.3.1)     
+15:28:37 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:28:37 [INFO]           www.ytsmart.net          
+15:28:37 [INFO] -----------logging begin-----------
+15:29:16 [INFO] append windows start = 2
+15:29:16 [INFO] Tray install success.
+15:29:18 [INFO] load data.
+15:29:18 [INFO] select color device id = 0
+15:29:18 [INFO] select image local = :/image/symbol.png
+15:29:18 [INFO] select media = D:/20121120-AVI_bak.mp4
+15:29:18 [INFO] select blend device id = 2
+15:29:18 [INFO] begin opengl .
+15:29:33 [INFO] load data success.
+15:42:11 [INFO] -----------------------------------
+15:42:11 [INFO]            Fusion System.          
+15:42:11 [INFO]           vision (_v1.3.1)     
+15:42:11 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:42:11 [INFO]           www.ytsmart.net          
+15:42:11 [INFO] -----------logging begin-----------
+15:42:13 [INFO] append windows start = 2
+15:42:13 [INFO] Tray install success.
+15:42:15 [INFO] load data.
+15:42:15 [INFO] select color device id = 0
+15:42:15 [INFO] select image local = :/image/symbol.png
+15:42:15 [INFO] select media = D:/20121120-AVI_bak.mp4
+15:42:15 [INFO] select blend device id = 2
+15:42:15 [INFO] begin opengl .
+15:42:15 [INFO] load data success.
+15:42:15 [INFO] opengl initialize.
+15:42:15 [INFO] opengl load data.
+15:42:15 [INFO] opengl handle image load success.
+15:42:15 [INFO] opengl render load success.
+15:42:15 [INFO] opengl coord data load success.
+15:42:15 [INFO] opengl blend data load success.
+15:42:16 [INFO] player open movie.
+15:42:16 [INFO] opengl load data success.
+15:42:17 [INFO] player play .
+15:42:20 [INFO] end opengl .
+15:42:20 [INFO] Tray uninstall success.
+15:42:20 [INFO] ------------logging end------------
+15:42:20 [INFO]         exit fusion system.        
+15:42:20 [INFO] -----------------------------------
+15:42:20 [INFO] 
+
+
+15:42:20 [INFO] Tray uninstall success.
+16:24:18 [INFO] -----------------------------------
+16:24:18 [INFO]            Fusion System.          
+16:24:18 [INFO]           vision (_v1.3.1)     
+16:24:18 [INFO] Shenzhen YanTu Technology Co., Ltd.
+16:24:18 [INFO]           www.ytsmart.net          
+16:24:18 [INFO] -----------logging begin-----------
+16:24:19 [INFO] append windows start = 2
+16:24:19 [INFO] Tray install success.
+16:24:21 [INFO] load data.
+16:24:21 [INFO] select color device id = 0
+16:24:21 [INFO] select image local = :/image/symbol.png
+16:24:21 [INFO] select media = D:/20121120-AVI_bak.mp4
+16:24:21 [INFO] select blend device id = 2
+16:24:21 [INFO] begin opengl .
+16:24:21 [INFO] load data success.
+16:24:21 [INFO] opengl initialize.
+16:24:21 [INFO] opengl load data.
+16:24:21 [INFO] opengl handle image load success.
+16:24:21 [INFO] opengl render load success.
+16:24:21 [INFO] opengl coord data load success.
+16:24:21 [INFO] opengl blend data load success.
+16:24:21 [INFO] opengl load data success.
+16:24:24 [INFO] player open movie.
+16:24:24 [INFO] player play .
+16:24:53 [INFO] end opengl .
+16:24:53 [INFO] Tray uninstall success.
+16:24:53 [INFO] ------------logging end------------
+16:24:53 [INFO]         exit fusion system.        
+16:24:53 [INFO] -----------------------------------
+16:24:53 [INFO] 
+
+
+16:24:53 [INFO] Tray uninstall success.
+16:28:03 [INFO] -----------------------------------
+16:28:03 [INFO]            Fusion System.          
+16:28:03 [INFO]           vision (_v1.3.1)     
+16:28:03 [INFO] Shenzhen YanTu Technology Co., Ltd.
+16:28:03 [INFO]           www.ytsmart.net          
+16:28:03 [INFO] -----------logging begin-----------
+16:28:09 [INFO] append windows start = 2
+16:28:10 [INFO] Tray install success.
+16:28:11 [INFO] load data.
+16:28:11 [INFO] select color device id = 0
+16:28:11 [INFO] select image local = :/image/symbol.png
+16:28:11 [INFO] select media = D:/20121120-AVI_bak.mp4
+16:28:11 [INFO] select blend device id = 2
+16:28:11 [INFO] begin opengl .
+16:28:13 [INFO] load data success.
+16:28:16 [INFO] player open movie.
+16:28:16 [INFO] player play .
+16:28:53 [INFO] end opengl .
+17:09:22 [INFO] -----------------------------------
+17:09:22 [INFO]            Fusion System.          
+17:09:22 [INFO]           vision (_v1.3.1)     
+17:09:22 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:09:22 [INFO]           www.ytsmart.net          
+17:09:22 [INFO] -----------logging begin-----------
+17:09:23 [INFO] append windows start = 2
+17:09:24 [INFO] Tray install success.
+17:09:25 [INFO] load data.
+17:09:25 [INFO] select color device id = 0
+17:09:25 [INFO] select image local = :/image/symbol.png
+17:09:25 [INFO] select media = D:/20121120-AVI_bak.mp4
+17:09:25 [INFO] select blend device id = 2
+17:09:25 [INFO] begin opengl .
+17:09:26 [INFO] load data success.
+17:09:26 [INFO] opengl initialize.
+17:09:26 [INFO] opengl load data.
+17:09:26 [INFO] opengl handle image load success.
+17:09:26 [INFO] opengl render load success.
+17:09:26 [INFO] opengl coord data load success.
+17:09:26 [INFO] opengl blend data load success.
+17:09:26 [INFO] opengl load data success.
+17:09:29 [INFO] player open movie.
+17:09:29 [INFO] player play .
+17:09:52 [INFO] start adjust data:
+17:09:52 [INFO]     computer layout(v:h) = 1:1
+17:09:52 [INFO]     computer index(v:h) = 0:0
+17:09:52 [INFO]     projection layout(v:h) = 1:3
+17:09:52 [INFO]     geometry control(v:h) = 2:2
+17:09:52 [INFO]     geometry precision(v:h) = 4:4
+17:09:52 [INFO]     geometry strategy = Auto
+17:09:52 [INFO]     device resolution = XGA (1024×768)
+17:09:52 [INFO] end opengl .
+17:09:52 [INFO] begin opengl .
+17:09:52 [INFO] select blend device id = 0
+17:09:52 [INFO] opengl initialize.
+17:09:54 [INFO] rendering mode = Image | Blend
+17:10:02 [INFO] rendering mode = Media | Blend
+17:10:11 [INFO] player open movie.
+17:10:11 [INFO] player play .
+17:10:28 [INFO] player stop .
+17:10:31 [INFO] end opengl .
+17:10:31 [INFO] Tray uninstall success.
+17:10:31 [INFO] ------------logging end------------
+17:10:31 [INFO]         exit fusion system.        
+17:10:31 [INFO] -----------------------------------
+17:10:31 [INFO] 
+
+
+17:10:31 [INFO] Tray uninstall success.
+17:12:56 [INFO] -----------------------------------
+17:12:56 [INFO]            Fusion System.          
+17:12:56 [INFO]           vision (_v1.3.1)     
+17:12:56 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:12:56 [INFO]           www.ytsmart.net          
+17:12:56 [INFO] -----------logging begin-----------
+17:12:56 [INFO] append windows start = 2
+17:12:56 [INFO] Tray install success.
+17:12:58 [INFO] load data.
+17:12:58 [INFO] select color device id = 0
+17:12:58 [INFO] select image local = :/image/symbol.png
+17:12:58 [INFO] select media = D:/20121120-AVI_bak.mp4
+17:12:58 [INFO] select blend device id = 2
+17:12:58 [INFO] begin opengl .
+17:12:58 [INFO] load data success.
+17:12:58 [INFO] opengl initialize.
+17:12:58 [INFO] opengl load data.
+17:12:58 [INFO] opengl handle image load success.
+17:12:58 [INFO] opengl render load success.
+17:12:58 [INFO] opengl coord data load success.
+17:12:58 [INFO] opengl blend data load success.
+17:12:58 [INFO] opengl load data success.
+17:13:01 [INFO] player open movie.
+17:13:01 [INFO] player play .
+17:13:11 [INFO] start adjust data:
+17:13:11 [INFO]     computer layout(v:h) = 1:1
+17:13:11 [INFO]     computer index(v:h) = 0:0
+17:13:11 [INFO]     projection layout(v:h) = 1:3
+17:13:11 [INFO]     geometry control(v:h) = 2:2
+17:13:11 [INFO]     geometry precision(v:h) = 4:4
+17:13:11 [INFO]     geometry strategy = Auto
+17:13:11 [INFO]     device resolution = XGA (1024×768)
+17:13:11 [INFO] end opengl .
+17:13:11 [INFO] begin opengl .
+17:13:11 [INFO] select blend device id = 0
+17:13:11 [INFO] opengl initialize.
+17:13:14 [INFO] rendering mode = Image | Blend
+17:13:15 [INFO] rendering mode = Media | Blend
+17:13:20 [INFO] player open movie.
+17:13:20 [INFO] player play .
+17:14:34 [INFO] player stop .
+17:14:38 [INFO] end opengl .
+17:14:39 [INFO] Tray uninstall success.
+17:14:39 [INFO] ------------logging end------------
+17:14:39 [INFO]         exit fusion system.        
+17:14:39 [INFO] -----------------------------------
+17:14:39 [INFO] 
+
+
+17:14:39 [INFO] Tray uninstall success.
+17:14:54 [INFO] -----------------------------------
+17:14:54 [INFO]            Fusion System.          
+17:14:54 [INFO]           vision (_v1.3.1)     
+17:14:54 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:14:54 [INFO]           www.ytsmart.net          
+17:14:54 [INFO] -----------logging begin-----------
+17:14:54 [INFO] append windows start = 2
+17:14:54 [INFO] Tray install success.
+17:14:56 [INFO] load data.
+17:14:56 [INFO] select color device id = 0
+17:14:56 [INFO] select image local = :/image/symbol.png
+17:14:56 [INFO] select media = D:/20121120-AVI_bak.mp4
+17:14:56 [INFO] select blend device id = 2
+17:14:56 [INFO] begin opengl .
+17:14:56 [INFO] load data success.
+17:14:57 [INFO] opengl initialize.
+17:14:57 [INFO] opengl load data.
+17:14:57 [INFO] opengl handle image load success.
+17:14:57 [INFO] opengl render load success.
+17:14:57 [INFO] opengl coord data load success.
+17:14:57 [INFO] opengl blend data load success.
+17:14:57 [INFO] opengl load data success.
+17:14:59 [INFO] player open movie.
+17:14:59 [INFO] player play .
+17:15:08 [INFO] rendering mode = Media | Blend| Point
+17:17:35 [INFO] end opengl .
+17:17:35 [INFO] Tray uninstall success.
+17:17:35 [INFO] ------------logging end------------
+17:17:35 [INFO]         exit fusion system.        
+17:17:35 [INFO] -----------------------------------
+17:17:35 [INFO] 
+
+
+17:17:35 [INFO] Tray uninstall success.
+17:47:15 [INFO] -----------------------------------
+17:47:15 [INFO]            Fusion System.          
+17:47:15 [INFO]           vision (_v1.3.1)     
+17:47:15 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:47:15 [INFO]           www.ytsmart.net          
+17:47:15 [INFO] -----------logging begin-----------
+17:47:16 [INFO] append windows start = 2
+17:47:16 [INFO] Tray install success.
+17:47:18 [INFO] load data.
+17:47:18 [INFO] select color device id = 0
+17:47:18 [INFO] select image local = :/image/symbol.png
+17:47:18 [INFO] select media = D:/20121120-AVI_bak.mp4
+17:47:18 [INFO] select blend device id = 2
+17:47:18 [INFO] begin opengl .
+17:47:18 [INFO] load data success.
+17:47:18 [INFO] opengl initialize.
+17:47:18 [INFO] opengl load data.
+17:47:18 [INFO] opengl handle image load success.
+17:47:18 [INFO] opengl render load success.
+17:47:18 [INFO] opengl coord data load success.
+17:47:18 [INFO] opengl blend data load success.
+17:47:18 [INFO] opengl load data success.
+17:47:21 [INFO] player open movie.
+17:47:21 [INFO] player play .
+17:47:35 [INFO] rendering mode = Media | Blend| Point
+17:47:36 [INFO] key move:(device id=               0; device index=        33685504; move value=0.025,0)
+17:47:36 [INFO] key move: surface=0,0; control=0, 0
+17:47:36 [INFO] key move success.
+17:47:37 [INFO] key move:(device id=               0; device index=        33685504; move value=-0.025,0)
+17:47:37 [INFO] key move: surface=0,0; control=0, 0
+17:47:37 [INFO] key move success.
+17:47:37 [INFO] key move:(device id=               0; device index=        33685504; move value=0,0)
+17:47:37 [INFO] key move: surface=0,0; control=0, 0
+17:47:37 [INFO] key move success.
+17:47:37 [INFO] key move:(device id=               0; device index=        33685504; move value=-0.025,0)
+17:47:37 [INFO] key move: surface=0,0; control=0, 0
+17:47:37 [INFO] key move success.
+17:47:37 [INFO] key move:(device id=               0; device index=        33685504; move value=0,0.025)
+17:47:37 [INFO] key move: surface=0,0; control=0, 0
+17:47:37 [INFO] key move success.
+17:47:37 [INFO] key move:(device id=               0; device index=        33685504; move value=0,-0.025)
+17:47:37 [INFO] key move: surface=0,0; control=0, 0
+17:47:37 [INFO] key move success.
+17:47:38 [INFO] key move:(device id=               0; device index=        33685504; move value=0,0.025)
+17:47:38 [INFO] key move: surface=0,0; control=0, 0
+17:47:38 [INFO] key move success.
+17:47:38 [INFO] key move:(device id=               0; device index=        33685504; move value=-0.025,0)
+17:47:38 [INFO] key move: surface=0,0; control=0, 0
+17:47:38 [INFO] key move success.
+17:47:38 [INFO] key move:(device id=               0; device index=        33685504; move value=0,-0.025)
+17:47:38 [INFO] key move: surface=0,0; control=0, 0
+17:47:38 [INFO] key move success.
+17:47:41 [INFO] end opengl .
+17:47:41 [INFO] Tray uninstall success.
+17:47:41 [INFO] ------------logging end------------
+17:47:41 [INFO]         exit fusion system.        
+17:47:41 [INFO] -----------------------------------
+17:47:41 [INFO] 
+
+
+17:47:41 [INFO] Tray uninstall success.
+17:49:48 [INFO] -----------------------------------
+17:49:48 [INFO]            Fusion System.          
+17:49:48 [INFO]           vision (_v1.3.1)     
+17:49:48 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:49:48 [INFO]           www.ytsmart.net          
+17:49:48 [INFO] -----------logging begin-----------
+17:49:48 [INFO] append windows start = 2
+17:49:48 [INFO] Tray install success.
+17:49:50 [INFO] load data.
+17:49:50 [INFO] select color device id = 0
+17:49:50 [INFO] select image local = :/image/symbol.png
+17:49:50 [INFO] select media = D:/20121120-AVI_bak.mp4
+17:49:50 [INFO] select blend device id = 2
+17:49:50 [INFO] begin opengl .
+17:49:50 [INFO] load data success.
+17:49:50 [INFO] opengl initialize.
+17:49:50 [INFO] opengl load data.
+17:49:50 [INFO] opengl handle image load success.
+17:49:50 [INFO] opengl render load success.
+17:49:50 [INFO] opengl coord data load success.
+17:49:50 [INFO] opengl blend data load success.
+17:49:50 [INFO] opengl load data success.
+17:49:53 [INFO] player open movie.
+17:49:53 [INFO] player play .
+17:50:04 [INFO] rendering mode = Media | Blend| Point
+17:50:06 [INFO] key move:(device id=0; device index=2020000; move value=0.025,0)
+17:50:06 [INFO] key move: surface=0,0; control=0, 0
+17:50:06 [INFO] key move success.
+17:50:07 [INFO] key move:(device id=0; device index=2020001; move value=0,0)
+17:50:07 [INFO] key move: surface=0,0; control=0, 1
+17:50:07 [INFO] key move success.
+17:50:07 [INFO] key move:(device id=0; device index=2020002; move value=0,0)
+17:50:07 [INFO] key move: surface=0,1; control=0, 1
+17:50:07 [INFO] key move success.
+17:50:07 [INFO] key move:(device id=1; device index=2020000; move value=0,0)
+17:50:07 [INFO] key move: surface=0,0; control=0, 0
+17:50:07 [INFO] key move success.
+17:50:08 [INFO] key move:(device id=1; device index=2020000; move value=0,0.025)
+17:50:08 [INFO] key move: surface=0,0; control=0, 0
+17:50:08 [INFO] key move success.
+17:50:08 [INFO] key move:(device id=1; device index=2020001; move value=0,0)
+17:50:08 [INFO] key move: surface=0,0; control=0, 1
+17:50:08 [INFO] key move success.
+17:50:09 [INFO] key move:(device id=1; device index=2020002; move value=0,0)
+17:50:09 [INFO] key move: surface=0,1; control=0, 1
+17:50:09 [INFO] key move success.
+17:50:09 [INFO] key move:(device id=1; device index=2020003; move value=0,0)
+17:50:09 [INFO] key move: surface=0,2; control=0, 1
+17:50:09 [INFO] key move success.
+17:50:09 [INFO] key move:(device id=2; device index=2020000; move value=0,0)
+17:50:09 [INFO] key move: surface=0,0; control=0, 0
+17:50:09 [INFO] key move success.
+17:50:10 [INFO] key move:(device id=2; device index=2020000; move value=0,0.025)
+17:50:10 [INFO] key move: surface=0,0; control=0, 0
+17:50:10 [INFO] key move success.
+17:50:10 [INFO] key move:(device id=2; device index=2020000; move value=0,0.025)
+17:50:10 [INFO] key move: surface=0,0; control=0, 0
+17:50:10 [INFO] key move success.
+17:50:10 [INFO] key move:(device id=2; device index=2020001; move value=0,0)
+17:50:10 [INFO] key move: surface=0,0; control=0, 1
+17:50:10 [INFO] key move success.
+17:50:10 [INFO] key move:(device id=2; device index=2020001; move value=0,0.025)
+17:50:10 [INFO] key move: surface=0,0; control=0, 1
+17:50:10 [INFO] key move success.
+17:50:11 [INFO] key move:(device id=2; device index=2020002; move value=0,0.025)
+17:50:11 [INFO] key move: surface=0,1; control=0, 1
+17:50:11 [INFO] key move success.
+17:50:11 [INFO] key move:(device id=2; device index=2020002; move value=0,0.025)
+17:50:11 [INFO] key move: surface=0,1; control=0, 1
+17:50:11 [INFO] key move success.
+17:50:11 [INFO] key move:(device id=2; device index=2020002; move value=0,0.025)
+17:50:11 [INFO] key move: surface=0,1; control=0, 1
+17:50:11 [INFO] key move success.
+17:50:11 [INFO] key move:(device id=2; device index=2020001; move value=0,0)
+17:50:11 [INFO] key move: surface=0,0; control=0, 1
+17:50:11 [INFO] key move success.
+17:50:12 [INFO] key move:(device id=2; device index=2020000; move value=0,0)
+17:50:12 [INFO] key move: surface=0,0; control=0, 0
+17:50:12 [INFO] key move success.
+17:50:12 [INFO] key move:(device id=2; device index=2020100; move value=0,0)
+17:50:12 [INFO] key move: surface=0,0; control=1, 0
+17:50:12 [INFO] key move success.
+17:50:12 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:12 [INFO] key move: surface=0,0; control=1, 1
+17:50:12 [INFO] key move success.
+17:50:12 [INFO] key move:(device id=2; device index=2020100; move value=0,0)
+17:50:12 [INFO] key move: surface=0,0; control=1, 0
+17:50:12 [INFO] key move success.
+17:50:12 [INFO] key move:(device id=2; device index=2020000; move value=0,0)
+17:50:12 [INFO] key move: surface=0,0; control=0, 0
+17:50:12 [INFO] key move success.
+17:50:12 [INFO] key move:(device id=2; device index=2020001; move value=0,0)
+17:50:12 [INFO] key move: surface=0,0; control=0, 1
+17:50:12 [INFO] key move success.
+17:50:13 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:13 [INFO] key move: surface=0,0; control=1, 1
+17:50:13 [INFO] key move success.
+17:50:13 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:13 [INFO] key move: surface=0,0; control=1, 1
+17:50:13 [INFO] key move success.
+17:50:13 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:13 [INFO] key move: surface=0,0; control=1, 1
+17:50:13 [INFO] key move success.
+17:50:13 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:13 [INFO] key move: surface=0,0; control=1, 1
+17:50:13 [INFO] key move success.
+17:50:13 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:13 [INFO] key move: surface=0,0; control=1, 1
+17:50:13 [INFO] key move success.
+17:50:13 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:13 [INFO] key move: surface=0,0; control=1, 1
+17:50:13 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:14 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:14 [INFO] key move: surface=0,0; control=1, 1
+17:50:14 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:15 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:15 [INFO] key move: surface=0,0; control=1, 1
+17:50:15 [INFO] key move success.
+17:50:16 [INFO] key move:(device id=0; device index=2020100; move value=0,0)
+17:50:16 [INFO] key move: surface=0,0; control=1, 0
+17:50:16 [INFO] key move success.
+17:50:16 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:16 [INFO] key move: surface=0,0; control=1, 1
+17:50:16 [INFO] key move success.
+17:50:16 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:16 [INFO] key move: surface=0,0; control=1, 1
+17:50:16 [INFO] key move success.
+17:50:16 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:16 [INFO] key move: surface=0,0; control=1, 1
+17:50:16 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=0,0.025)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=-0.025,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=-0.025,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=-0.025,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=0.025,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=1; device index=2020101; move value=0,0.025)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:17 [INFO] key move:(device id=2; device index=2020101; move value=-0.025,0)
+17:50:17 [INFO] key move: surface=0,0; control=1, 1
+17:50:17 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020101; move value=0.025,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020101; move value=-0.025,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020102; move value=-0.025,0)
+17:50:18 [INFO] key move: surface=0,1; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020101; move value=0.025,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020101; move value=0,-0.025)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=2; device index=2020101; move value=0,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=0; device index=2020101; move value=0.025,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=0; device index=2020101; move value=0,0.025)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=0; device index=2020101; move value=-0.025,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=0; device index=2020101; move value=0.025,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 1
+17:50:18 [INFO] key move success.
+17:50:18 [INFO] key move:(device id=0; device index=2020100; move value=0,0)
+17:50:18 [INFO] key move: surface=0,0; control=1, 0
+17:50:18 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=0; device index=2020100; move value=0,-0.025)
+17:50:19 [INFO] key move: surface=0,0; control=1, 0
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=0; device index=2020101; move value=0,-0.025)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=0; device index=2020101; move value=-0.025,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=0; device index=2020101; move value=0.025,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=0; device index=2020101; move value=0,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=1; device index=2020101; move value=0,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=1; device index=2020100; move value=0,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 0
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=1; device index=2020101; move value=-0.025,0)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:19 [INFO] key move:(device id=1; device index=2020101; move value=0,-0.025)
+17:50:19 [INFO] key move: surface=0,0; control=1, 1
+17:50:19 [INFO] key move success.
+17:50:22 [INFO] end opengl .
+17:50:22 [INFO] Tray uninstall success.
+17:50:22 [INFO] ------------logging end------------
+17:50:22 [INFO]         exit fusion system.        
+17:50:22 [INFO] -----------------------------------
+17:50:22 [INFO] 
+
+
+17:50:22 [INFO] Tray uninstall success.
+22:57:19 [INFO] -----------------------------------
+22:57:19 [INFO]            Fusion System.          
+22:57:19 [INFO]           vision (_v1.3.1)     
+22:57:19 [INFO] Shenzhen YanTu Technology Co., Ltd.
+22:57:19 [INFO]           www.ytsmart.net          
+22:57:19 [INFO] -----------logging begin-----------
+22:57:24 [INFO] Tray install success.
+22:57:36 [INFO] rendering mode = Grid | Blend
+22:57:42 [INFO] media play mode = default
+22:57:45 [INFO] save data success.
+22:57:49 [INFO] Tray uninstall success.
+22:57:49 [INFO] ------------logging end------------
+22:57:49 [INFO]         exit fusion system.        
+22:57:49 [INFO] -----------------------------------
+22:57:49 [INFO] 
+
+
+22:57:49 [INFO] Tray uninstall success.
+22:57:54 [INFO] -----------------------------------
+22:57:54 [INFO]            Fusion System.          
+22:57:54 [INFO]           vision (_v1.3.1)     
+22:57:54 [INFO] Shenzhen YanTu Technology Co., Ltd.
+22:57:54 [INFO]           www.ytsmart.net          
+22:57:54 [INFO] -----------logging begin-----------
+22:57:55 [INFO] Tray install success.
+22:58:47 [INFO] Tray uninstall success.
+22:58:48 [INFO] ------------logging end------------
+22:58:48 [INFO]         exit fusion system.        
+22:58:48 [INFO] -----------------------------------
+22:58:48 [INFO] 
+
+
+22:58:48 [INFO] Tray uninstall success.
+22:59:23 [INFO] -----------------------------------
+22:59:23 [INFO]            Fusion System.          
+22:59:23 [INFO]           vision (_v1.3.1)     
+22:59:23 [INFO] Shenzhen YanTu Technology Co., Ltd.
+22:59:23 [INFO]           www.ytsmart.net          
+22:59:23 [INFO] -----------logging begin-----------
+22:59:33 [INFO] Tray install success.
+22:59:42 [INFO] start adjust data:
+22:59:42 [INFO]     computer layout(v:h) = 1:1
+22:59:42 [INFO]     computer index(v:h) = 0:0
+22:59:42 [INFO]     projection layout(v:h) = 1:2
+22:59:42 [INFO]     geometry control(v:h) = 2:2
+22:59:42 [INFO]     geometry precision(v:h) = 4:4
+22:59:42 [INFO]     geometry strategy = Auto
+22:59:42 [INFO]     device resolution = XGA (1024×768)
+22:59:42 [INFO] begin opengl .
+22:59:48 [INFO] select blend device id = 0
+22:59:48 [INFO] opengl initialize.
+22:59:50 [INFO] show tools.
+23:00:03 [INFO] append windows start = 2
+23:00:04 [INFO] start minimize = 2
+23:00:06 [INFO] save data success.
+23:00:07 [INFO] end opengl .
+23:00:07 [INFO] Tray uninstall success.
+23:00:07 [INFO] ------------logging end------------
+23:00:07 [INFO]         exit fusion system.        
+23:00:07 [INFO] -----------------------------------
+23:00:07 [INFO] 
+
+
+23:00:07 [INFO] Tray uninstall success.
+23:00:36 [INFO] -----------------------------------
+23:00:36 [INFO]            Fusion System.          
+23:00:36 [INFO]           vision (_v1.3.1)     
+23:00:36 [INFO] Shenzhen YanTu Technology Co., Ltd.
+23:00:36 [INFO]           www.ytsmart.net          
+23:00:36 [INFO] -----------logging begin-----------
+23:00:45 [INFO] start minimize = 2
+23:00:52 [INFO] append windows start = 2
+23:00:54 [INFO] Tray install success.
+23:00:54 [INFO] hide tools.
+23:02:40 [INFO] show tools.
+23:02:42 [INFO] Tray trigger.
+23:02:52 [INFO] load data.
+23:02:52 [INFO] select color device id = 0
+23:02:52 [INFO] select image local = :/image/symbol.png
+23:02:52 [INFO] select blend device id = 0
+23:02:52 [INFO] begin opengl .
+23:02:58 [INFO] load data success.
+23:02:58 [INFO] opengl initialize.
+23:02:58 [INFO] opengl load data.
+23:02:58 [INFO] opengl handle image load success.
+23:02:58 [INFO] opengl render load success.
+23:02:58 [INFO] opengl coord data load success.
+23:02:58 [INFO] opengl blend data load success.
+23:02:58 [INFO] opengl load data success.
+23:03:00 [INFO] show tools.
+23:03:01 [INFO] end opengl .
+23:03:01 [INFO] Tray uninstall success.
+23:03:01 [INFO] ------------logging end------------
+23:03:01 [INFO]         exit fusion system.        
+23:03:01 [INFO] -----------------------------------
+23:03:01 [INFO] 
+
+
+23:03:01 [INFO] Tray uninstall success.
+23:04:05 [INFO] -----------------------------------
+23:04:05 [INFO]            Fusion System.          
+23:04:05 [INFO]           vision (_v1.3.1)     
+23:04:05 [INFO] Shenzhen YanTu Technology Co., Ltd.
+23:04:05 [INFO]           www.ytsmart.net          
+23:04:05 [INFO] -----------logging begin-----------
+23:04:13 [INFO] start minimize = 2
+23:04:20 [INFO] append windows start = 2
+23:04:22 [INFO] Tray install success.
+23:04:23 [INFO] hide tools.
+23:05:05 [INFO] show tools.
+23:05:05 [INFO] Tray trigger.
+23:05:09 [INFO] Tray uninstall success.
+23:05:09 [INFO] ------------logging end------------
+23:05:09 [INFO]         exit fusion system.        
+23:05:09 [INFO] -----------------------------------
+23:05:09 [INFO] 
+
+
+23:05:09 [INFO] Tray uninstall success.
+23:07:40 [INFO] -----------------------------------
+23:07:40 [INFO]            Fusion System.          
+23:07:40 [INFO]           vision (_v1.3.1)     
+23:07:40 [INFO] Shenzhen YanTu Technology Co., Ltd.
+23:07:40 [INFO]           www.ytsmart.net          
+23:07:40 [INFO] -----------logging begin-----------
+23:07:40 [INFO] start minimize = 2
+23:07:40 [INFO] append windows start = 2
+23:07:40 [INFO] Tray install success.
+23:07:42 [INFO] load data.
+23:07:42 [INFO] select color device id = 0
+23:07:42 [INFO] select image local = :/image/symbol.png
+23:07:42 [INFO] select blend device id = 0
+23:07:42 [INFO] begin opengl .
+23:07:43 [INFO] load data success.
+23:07:43 [INFO] hide tools.
+23:07:43 [INFO] opengl initialize.
+23:07:43 [INFO] opengl load data.
+23:07:43 [INFO] opengl handle image load success.
+23:07:43 [INFO] opengl render load success.
+23:07:43 [INFO] opengl coord data load success.
+23:07:43 [INFO] opengl blend data load success.
+23:07:43 [INFO] opengl load data success.
+23:07:44 [INFO] show tools.
+23:07:46 [INFO] end opengl .
+23:07:46 [INFO] Tray uninstall success.
+23:07:46 [INFO] ------------logging end------------
+23:07:46 [INFO]         exit fusion system.        
+23:07:46 [INFO] -----------------------------------
+23:07:46 [INFO] 
+
+
+23:07:46 [INFO] Tray uninstall success.
+05:42:34 [INFO] -----------------------------------
+05:42:34 [INFO]            Fusion System.          
+05:42:34 [INFO]           vision (_v1.3.1)     
+05:42:34 [INFO] Shenzhen YanTu Technology Co., Ltd.
+05:42:34 [INFO]           www.ytsmart.net          
+05:42:34 [INFO] -----------logging begin-----------
+05:42:35 [INFO] start minimize = 2
+05:42:35 [INFO] append windows start = 2
+05:42:35 [INFO] Tray install success.
+05:42:37 [INFO] load data.
+05:42:37 [INFO] select color device id = 0
+05:42:37 [INFO] select image local = :/image/symbol.png
+05:42:37 [INFO] select blend device id = 0
+05:42:37 [INFO] begin opengl .
+05:42:37 [INFO] load data success.
+05:42:37 [INFO] hide tools.
+05:42:38 [INFO] opengl initialize.
+05:42:38 [INFO] opengl load data.
+05:42:38 [INFO] opengl handle image load success.
+05:42:38 [INFO] opengl render load success.
+05:42:38 [INFO] opengl coord data load success.
+05:42:38 [INFO] opengl blend data load success.
+05:42:38 [INFO] opengl load data success.
+05:42:43 [INFO] show tools.
+05:42:46 [INFO] show tools.
+05:42:48 [INFO] show tools.
+05:42:48 [INFO] show tools.
+05:42:58 [INFO] show tools.
+05:43:01 [INFO] hide tools.
+05:43:02 [INFO] show tools.
+05:43:11 [INFO] end opengl .
+05:43:11 [INFO] Tray uninstall success.
+05:43:11 [INFO] ------------logging end------------
+05:43:11 [INFO]         exit fusion system.        
+05:43:11 [INFO] -----------------------------------
+05:43:11 [INFO] 
+
+
+17:32:13 [INFO] -----------------------------------
+17:32:13 [INFO]            Fusion System.          
+17:32:13 [INFO]           vision (_v1.3.1)     
+17:32:13 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:32:13 [INFO]           www.ytsmart.net          
+17:32:13 [INFO] -----------logging begin-----------
+17:32:13 [INFO] start minimize = 2
+17:32:13 [INFO] append windows start = 2
+17:32:13 [INFO] Tray install success.
+17:32:15 [INFO] load data.
+17:32:15 [INFO] select color device id = 0
+17:32:15 [INFO] select image local = :/image/symbol.png
+17:32:15 [INFO] select blend device id = 0
+17:32:15 [INFO] begin opengl .
+17:32:15 [INFO] load data success.
+17:32:15 [INFO] hide tools.
+17:32:16 [INFO] opengl initialize.
+17:32:16 [INFO] opengl load data.
+17:32:16 [INFO] opengl handle image load success.
+17:32:16 [INFO] opengl render load success.
+17:32:16 [INFO] opengl coord data load success.
+17:32:16 [INFO] opengl blend data load success.
+17:32:16 [INFO] opengl load data success.
+17:32:18 [INFO] show tools.
+17:32:20 [INFO] start adjust data:
+17:32:20 [INFO]     computer layout(v:h) = 1:1
+17:32:20 [INFO]     computer index(v:h) = 0:0
+17:32:20 [INFO]     projection layout(v:h) = 1:2
+17:32:20 [INFO]     geometry control(v:h) = 2:2
+17:32:20 [INFO]     geometry precision(v:h) = 4:4
+17:32:20 [INFO]     geometry strategy = Auto
+17:32:20 [INFO]     device resolution = XGA (1024×768)
+17:32:20 [INFO] end opengl .
+17:32:20 [INFO] begin opengl .
+17:32:20 [INFO] select blend device id = 0
+17:32:20 [ERROR] Validation license error!
+17:32:20 [INFO] end opengl .
+17:32:20 [INFO] opengl initialize.
+17:32:36 [INFO] -----------------------------------
+17:32:36 [INFO]            Fusion System.          
+17:32:36 [INFO]           vision (_v1.3.1)     
+17:32:36 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:32:36 [INFO]           www.ytsmart.net          
+17:32:36 [INFO] -----------logging begin-----------
+17:32:36 [INFO] start minimize = 2
+17:32:36 [INFO] append windows start = 2
+17:32:36 [INFO] Tray install success.
+17:32:38 [INFO] load data.
+17:32:38 [INFO] select color device id = 0
+17:32:38 [INFO] select image local = :/image/symbol.png
+17:32:38 [INFO] select blend device id = 0
+17:32:38 [INFO] begin opengl .
+17:32:38 [INFO] load data success.
+17:32:38 [INFO] hide tools.
+17:32:38 [INFO] opengl initialize.
+17:32:38 [INFO] opengl load data.
+17:32:38 [INFO] opengl handle image load success.
+17:32:38 [INFO] opengl render load success.
+17:32:38 [INFO] opengl coord data load success.
+17:32:38 [INFO] opengl blend data load success.
+17:32:38 [INFO] opengl load data success.
+17:32:40 [INFO] show tools.
+17:33:30 [INFO] append windows start = 0
+17:33:30 [INFO] start minimize = 0
+17:33:33 [INFO] end opengl .
+17:33:33 [INFO] Tray uninstall success.
+17:33:33 [INFO] ------------logging end------------
+17:33:33 [INFO]         exit fusion system.        
+17:33:33 [INFO] -----------------------------------
+17:33:33 [INFO] 
+
+
+17:33:33 [INFO] Tray uninstall success.
+17:33:35 [INFO] -----------------------------------
+17:33:35 [INFO]            Fusion System.          
+17:33:35 [INFO]           vision (_v1.3.1)     
+17:33:35 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:33:35 [INFO]           www.ytsmart.net          
+17:33:35 [INFO] -----------logging begin-----------
+17:33:35 [INFO] start minimize = 2
+17:33:36 [INFO] append windows start = 2
+17:33:36 [INFO] Tray install success.
+17:33:38 [INFO] load data.
+17:33:38 [INFO] select color device id = 0
+17:33:38 [INFO] select image local = :/image/symbol.png
+17:33:38 [INFO] select blend device id = 0
+17:33:38 [INFO] begin opengl .
+17:33:38 [INFO] load data success.
+17:33:38 [INFO] hide tools.
+17:33:38 [INFO] opengl initialize.
+17:33:38 [INFO] opengl load data.
+17:33:38 [INFO] opengl handle image load success.
+17:33:38 [INFO] opengl render load success.
+17:33:38 [INFO] opengl coord data load success.
+17:33:38 [INFO] opengl blend data load success.
+17:33:38 [INFO] opengl load data success.
+17:33:39 [INFO] show tools.
+17:33:41 [INFO] start adjust data:
+17:33:41 [INFO]     computer layout(v:h) = 1:1
+17:33:41 [INFO]     computer index(v:h) = 0:0
+17:33:41 [INFO]     projection layout(v:h) = 1:2
+17:33:41 [INFO]     geometry control(v:h) = 2:2
+17:33:41 [INFO]     geometry precision(v:h) = 4:4
+17:33:41 [INFO]     geometry strategy = Auto
+17:33:41 [INFO]     device resolution = XGA (1024×768)
+17:33:41 [INFO] end opengl .
+17:33:41 [INFO] begin opengl .
+17:33:41 [INFO] select blend device id = 0
+17:33:41 [ERROR] Validation license error!
+17:33:41 [INFO] end opengl .
+17:33:41 [INFO] opengl initialize.
+17:34:43 [INFO] -----------------------------------
+17:34:43 [INFO]            Fusion System.          
+17:34:43 [INFO]           vision (_v1.3.1)     
+17:34:43 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:34:43 [INFO]           www.ytsmart.net          
+17:34:43 [INFO] -----------logging begin-----------
+17:34:43 [INFO] start minimize = 2
+17:34:43 [INFO] append windows start = 2
+17:34:43 [INFO] Tray install success.
+17:34:45 [INFO] load data.
+17:34:45 [INFO] select color device id = 0
+17:34:45 [INFO] select image local = :/image/symbol.png
+17:34:45 [INFO] select blend device id = 0
+17:34:45 [INFO] begin opengl .
+17:34:45 [INFO] load data success.
+17:34:45 [INFO] hide tools.
+17:34:45 [INFO] opengl initialize.
+17:34:45 [INFO] opengl load data.
+17:34:45 [INFO] opengl handle image load success.
+17:34:45 [INFO] opengl render load success.
+17:34:45 [INFO] opengl coord data load success.
+17:34:45 [INFO] opengl blend data load success.
+17:34:45 [INFO] opengl load data success.
+17:34:48 [INFO] show tools.
+17:34:49 [INFO] start adjust data:
+17:34:49 [INFO]     computer layout(v:h) = 1:1
+17:34:49 [INFO]     computer index(v:h) = 0:0
+17:34:49 [INFO]     projection layout(v:h) = 1:2
+17:34:49 [INFO]     geometry control(v:h) = 2:2
+17:34:49 [INFO]     geometry precision(v:h) = 4:4
+17:34:49 [INFO]     geometry strategy = Auto
+17:34:49 [INFO]     device resolution = XGA (1024×768)
+17:34:49 [INFO] end opengl .
+17:34:49 [ERROR] Validation license error!
+17:37:18 [INFO] -----------------------------------
+17:37:18 [INFO]            Fusion System.          
+17:37:18 [INFO]           vision (_v1.3.1)     
+17:37:18 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:37:18 [INFO]           www.ytsmart.net          
+17:37:18 [INFO] -----------logging begin-----------
+17:37:18 [INFO] start minimize = 2
+17:37:18 [INFO] append windows start = 2
+17:37:19 [INFO] Tray install success.
+17:37:20 [ERROR] Validation license error!
+17:37:26 [INFO] hide tools.
+17:37:29 [INFO] show tools.
+17:37:29 [INFO] Tray trigger.
+17:37:31 [INFO] start adjust data:
+17:37:31 [INFO]     computer layout(v:h) = 1:1
+17:37:31 [INFO]     computer index(v:h) = 0:0
+17:37:31 [INFO]     projection layout(v:h) = 1:2
+17:37:31 [INFO]     geometry control(v:h) = 2:2
+17:37:31 [INFO]     geometry precision(v:h) = 4:4
+17:37:31 [INFO]     geometry strategy = Auto
+17:37:31 [INFO]     device resolution = XGA (1024×768)
+17:37:31 [ERROR] Validation license error!
+17:37:38 [INFO] start adjust data:
+17:37:38 [INFO]     computer layout(v:h) = 1:1
+17:37:38 [INFO]     computer index(v:h) = 0:0
+17:37:38 [INFO]     projection layout(v:h) = 1:2
+17:37:38 [INFO]     geometry control(v:h) = 2:2
+17:37:38 [INFO]     geometry precision(v:h) = 4:4
+17:37:38 [INFO]     geometry strategy = Auto
+17:37:38 [INFO]     device resolution = XGA (1024×768)
+17:37:38 [ERROR] Validation license error!
+17:37:43 [INFO] Tray uninstall success.
+17:37:43 [INFO] ------------logging end------------
+17:37:43 [INFO]         exit fusion system.        
+17:37:43 [INFO] -----------------------------------
+17:37:43 [INFO] 
+
+
+17:37:43 [INFO] Tray uninstall success.
+17:38:16 [INFO] -----------------------------------
+17:38:16 [INFO]            Fusion System.          
+17:38:16 [INFO]           vision (_v1.3.1)     
+17:38:16 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:38:16 [INFO]           www.ytsmart.net          
+17:38:16 [INFO] -----------logging begin-----------
+17:38:16 [INFO] start minimize = 2
+17:38:16 [INFO] append windows start = 2
+17:38:16 [INFO] Tray install success.
+17:38:19 [INFO] load data.
+17:38:19 [INFO] select color device id = 0
+17:38:19 [INFO] select image local = :/image/symbol.png
+17:38:19 [INFO] select blend device id = 0
+17:38:19 [INFO] begin opengl .
+17:38:19 [INFO] load data success.
+17:38:19 [INFO] hide tools.
+17:38:19 [INFO] opengl initialize.
+17:38:19 [INFO] opengl load data.
+17:38:19 [INFO] opengl handle image load success.
+17:38:19 [INFO] opengl render load success.
+17:38:19 [INFO] opengl coord data load success.
+17:38:19 [INFO] opengl blend data load success.
+17:38:19 [INFO] opengl load data success.
+17:38:20 [INFO] show tools.
+17:38:30 [INFO] start adjust data:
+17:38:30 [INFO]     computer layout(v:h) = 1:1
+17:38:30 [INFO]     computer index(v:h) = 0:0
+17:38:30 [INFO]     projection layout(v:h) = 1:2
+17:38:30 [INFO]     geometry control(v:h) = 2:2
+17:38:30 [INFO]     geometry precision(v:h) = 4:4
+17:38:30 [INFO]     geometry strategy = Auto
+17:38:30 [INFO]     device resolution = XGA (1024×768)
+17:38:30 [INFO] end opengl .
+17:38:31 [INFO] begin opengl .
+17:38:31 [INFO] select blend device id = 0
+17:38:31 [INFO] opengl initialize.
+17:38:43 [INFO] start adjust data:
+17:38:43 [INFO]     computer layout(v:h) = 1:1
+17:38:43 [INFO]     computer index(v:h) = 0:0
+17:38:43 [INFO]     projection layout(v:h) = 1:3
+17:38:43 [INFO]     geometry control(v:h) = 2:2
+17:38:43 [INFO]     geometry precision(v:h) = 4:4
+17:38:43 [INFO]     geometry strategy = Auto
+17:38:43 [INFO]     device resolution = HD720 (1280x720)
+17:38:43 [INFO] end opengl .
+17:38:43 [INFO] begin opengl .
+17:38:43 [INFO] select blend device id = 0
+17:38:43 [INFO] opengl initialize.
+17:39:03 [INFO] start adjust data:
+17:39:03 [INFO]     computer layout(v:h) = 1:1
+17:39:03 [INFO]     computer index(v:h) = 0:0
+17:39:03 [INFO]     projection layout(v:h) = 1:3
+17:39:03 [INFO]     geometry control(v:h) = 2:2
+17:39:03 [INFO]     geometry precision(v:h) = 4:4
+17:39:03 [INFO]     geometry strategy = Auto
+17:39:03 [INFO]     device resolution = HD1080 (1920x1080)
+17:39:03 [INFO] end opengl .
+17:39:03 [INFO] begin opengl .
+17:39:03 [INFO] select blend device id = 0
+17:39:03 [INFO] opengl initialize.
+17:39:06 [INFO] show tools.
+17:39:06 [INFO] show tools.
+17:39:06 [INFO] show tools.
+17:39:06 [INFO] show tools.
+17:39:07 [INFO] show tools.
+17:39:07 [INFO] show tools.
+17:39:09 [INFO] end opengl .
+17:39:09 [INFO] Tray uninstall success.
+17:39:09 [INFO] ------------logging end------------
+17:39:09 [INFO]         exit fusion system.        
+17:39:09 [INFO] -----------------------------------
+17:39:09 [INFO] 
+
+
+17:39:09 [INFO] Tray uninstall success.
+11:58:15 [INFO] -----------------------------------
+11:58:15 [INFO]            Fusion System.          
+11:58:15 [INFO]           vision (_v1.3.1)     
+11:58:15 [INFO] Shenzhen YanTu Technology Co., Ltd.
+11:58:15 [INFO]           www.ytsmart.net          
+11:58:15 [INFO] -----------logging begin-----------
+11:58:15 [INFO] start minimize = 2
+11:58:15 [INFO] append windows start = 2
+11:58:15 [INFO] Tray install success.
+11:58:18 [ERROR] Validation license error!
+11:58:20 [INFO] hide tools.
+11:58:51 [INFO] Tray uninstall success.
+11:58:51 [INFO] ------------logging end------------
+11:58:51 [INFO]         exit fusion system.        
+11:58:51 [INFO] -----------------------------------
+11:58:51 [INFO] 
+
+
+11:59:50 [INFO] -----------------------------------
+11:59:50 [INFO]            Fusion System.          
+11:59:50 [INFO]           vision (_v1.3.1)     
+11:59:50 [INFO] Shenzhen YanTu Technology Co., Ltd.
+11:59:50 [INFO]           www.ytsmart.net          
+11:59:50 [INFO] -----------logging begin-----------
+11:59:50 [INFO] start minimize = 2
+11:59:50 [INFO] append windows start = 2
+11:59:50 [INFO] Tray install success.
+11:59:53 [ERROR] Validation license error!
+11:59:55 [INFO] hide tools.
+12:00:45 [INFO] -----------------------------------
+12:00:45 [INFO]            Fusion System.          
+12:00:45 [INFO]           vision (_v1.3.1)     
+12:00:45 [INFO] Shenzhen YanTu Technology Co., Ltd.
+12:00:45 [INFO]           www.ytsmart.net          
+12:00:45 [INFO] -----------logging begin-----------
+12:00:45 [INFO] start minimize = 2
+12:00:45 [INFO] append windows start = 2
+12:00:45 [INFO] Tray install success.
+12:00:48 [ERROR] Validation license error!
+12:00:51 [INFO] hide tools.
+12:01:17 [INFO] -----------------------------------
+12:01:17 [INFO]            Fusion System.          
+12:01:17 [INFO]           vision (_v1.3.1)     
+12:01:17 [INFO] Shenzhen YanTu Technology Co., Ltd.
+12:01:17 [INFO]           www.ytsmart.net          
+12:01:17 [INFO] -----------logging begin-----------
+12:01:17 [INFO] start minimize = 2
+12:01:17 [INFO] append windows start = 2
+12:01:17 [INFO] Tray install success.
+12:01:20 [INFO] load data.
+12:01:20 [INFO] select color device id = 0
+12:01:20 [INFO] select image local = :/image/symbol.png
+12:01:20 [INFO] select blend device id = 0
+12:01:20 [INFO] begin opengl .
+12:01:20 [INFO] load data success.
+12:01:20 [INFO] hide tools.
+12:01:20 [INFO] opengl initialize.
+12:01:20 [INFO] opengl load data.
+12:01:20 [INFO] opengl handle image load success.
+12:01:20 [INFO] opengl render load success.
+12:01:20 [INFO] opengl coord data load success.
+12:01:20 [INFO] opengl blend data load success.
+12:01:20 [INFO] opengl load data success.
+12:01:23 [INFO] show tools.
+12:01:26 [INFO] end opengl .
+12:01:26 [INFO] Tray uninstall success.
+12:01:26 [INFO] ------------logging end------------
+12:01:26 [INFO]         exit fusion system.        
+12:01:26 [INFO] -----------------------------------
+12:01:26 [INFO] 
+
+
+12:01:26 [INFO] Tray uninstall success.
+15:06:55 [INFO] -----------------------------------
+15:06:55 [INFO]            Fusion System.          
+15:06:55 [INFO]           vision (_v1.3.1)     
+15:06:55 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:06:55 [INFO]           www.ytsmart.net          
+15:06:55 [INFO] -----------logging begin-----------
+15:06:55 [INFO] start minimize = 2
+15:06:55 [INFO] append windows start = 2
+15:06:55 [INFO] Tray install success.
+15:06:57 [ERROR] Validation license error!
+15:06:59 [INFO] hide tools.
+15:08:08 [INFO] Tray uninstall success.
+15:08:08 [INFO] ------------logging end------------
+15:08:08 [INFO]         exit fusion system.        
+15:08:08 [INFO] -----------------------------------
+15:08:08 [INFO] 
+
+
+15:13:33 [INFO] -----------------------------------
+15:13:33 [INFO]            Fusion System.          
+15:13:33 [INFO]           vision (_v1.3.1)     
+15:13:33 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:13:33 [INFO]           www.ytsmart.net          
+15:13:33 [INFO] -----------logging begin-----------
+15:13:34 [INFO] start minimize = 2
+15:13:34 [INFO] append windows start = 2
+15:13:34 [INFO] Tray install success.
+15:13:36 [INFO] load data.
+15:13:36 [INFO] select color device id = 0
+15:13:36 [INFO] select image local = :/image/symbol.png
+15:13:36 [INFO] select blend device id = 0
+15:13:36 [INFO] begin opengl .
+15:13:36 [INFO] load data success.
+15:13:36 [INFO] hide tools.
+15:13:36 [INFO] opengl initialize.
+15:13:36 [INFO] opengl load data.
+15:13:36 [INFO] opengl handle image load success.
+15:13:36 [INFO] opengl render load success.
+15:13:36 [INFO] opengl coord data load success.
+15:13:36 [INFO] opengl blend data load success.
+15:13:36 [INFO] opengl load data success.
+15:13:38 [INFO] show tools.
+15:14:16 [INFO] rendering mode = Desktop | Blend
+15:14:16 [ERROR] enable desktop error.
+15:14:22 [ERROR] enable desktop error.
+15:14:32 [ERROR] enable desktop error.
+15:14:35 [ERROR] enable desktop error.
+15:14:43 [INFO] end opengl .
+15:14:43 [INFO] Tray uninstall success.
+15:14:43 [INFO] ------------logging end------------
+15:14:43 [INFO]         exit fusion system.        
+15:14:43 [INFO] -----------------------------------
+15:14:43 [INFO] 
+
+
+15:14:43 [INFO] Tray uninstall success.
+15:27:18 [INFO] -----------------------------------
+15:27:18 [INFO]            Fusion System.          
+15:27:18 [INFO]           vision (_v1.3.1)     
+15:27:18 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:27:18 [INFO]           www.ytsmart.net          
+15:27:18 [INFO] -----------logging begin-----------
+15:27:19 [INFO] start minimize = 2
+15:27:19 [INFO] append windows start = 2
+15:27:19 [INFO] Tray install success.
+15:27:21 [INFO] load data.
+15:27:21 [INFO] select color device id = 0
+15:27:21 [INFO] select image local = :/image/symbol.png
+15:27:21 [INFO] select blend device id = 0
+15:27:22 [INFO] begin opengl .
+15:27:22 [INFO] load data success.
+15:27:22 [INFO] hide tools.
+15:27:22 [INFO] opengl initialize.
+15:27:22 [INFO] opengl load data.
+15:27:22 [INFO] opengl handle image load success.
+15:27:22 [INFO] opengl render load success.
+15:27:22 [INFO] opengl coord data load success.
+15:27:22 [INFO] opengl blend data load success.
+15:27:22 [INFO] opengl load data success.
+15:27:24 [INFO] show tools.
+15:27:52 [INFO] rendering mode = Desktop | Blend
+15:31:49 [INFO] warp cursor = 2
+15:37:56 [INFO] end opengl .
+15:37:56 [INFO] Tray uninstall success.
+15:37:56 [INFO] ------------logging end------------
+15:37:56 [INFO]         exit fusion system.        
+15:37:56 [INFO] -----------------------------------
+15:37:56 [INFO] 
+
+
+15:37:56 [INFO] Tray uninstall success.
+19:03:51 [INFO] -----------------------------------
+19:03:51 [INFO]            Fusion System.          
+19:03:51 [INFO]           vision (_v1.3.1)     
+19:03:51 [INFO] Shenzhen YanTu Technology Co., Ltd.
+19:03:51 [INFO]           www.ytsmart.net          
+19:03:51 [INFO] -----------logging begin-----------
+19:03:52 [INFO] start minimize = 2
+19:03:52 [INFO] append windows start = 2
+19:03:52 [INFO] Tray install success.
+19:03:54 [INFO] load data.
+19:03:54 [INFO] select color device id = 0
+19:03:54 [INFO] select image local = :/image/symbol.png
+19:03:54 [INFO] select blend device id = 0
+19:03:55 [INFO] begin opengl .
+19:03:55 [INFO] load data success.
+19:03:55 [INFO] hide tools.
+19:03:55 [INFO] opengl initialize.
+19:03:55 [INFO] opengl load data.
+19:03:55 [INFO] opengl handle image load success.
+19:03:55 [INFO] opengl render load success.
+19:03:55 [INFO] opengl coord data load success.
+19:03:55 [INFO] opengl blend data load success.
+19:03:55 [INFO] opengl load data success.
+19:03:58 [INFO] show tools.
+19:04:00 [INFO] end opengl .
+19:04:01 [INFO] Tray uninstall success.
+19:04:01 [INFO] ------------logging end------------
+19:04:01 [INFO]         exit fusion system.        
+19:04:01 [INFO] -----------------------------------
+19:04:01 [INFO] 
+
+
+19:04:01 [INFO] Tray uninstall success.
+17:47:59 [INFO] -----------------------------------
+17:47:59 [INFO]            Fusion System.          
+17:47:59 [INFO]           vision (_v1.3.1)     
+17:47:59 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:47:59 [INFO]           www.ytsmart.net          
+17:47:59 [INFO] -----------logging begin-----------
+17:47:59 [INFO] start minimize = 2
+17:47:59 [INFO] append windows start = 2
+17:47:59 [INFO] Tray install success.
+17:48:01 [INFO] load data.
+17:48:01 [INFO] select color device id = 0
+17:48:01 [INFO] select image local = :/image/symbol.png
+17:48:01 [INFO] select blend device id = 0
+17:48:02 [INFO] begin opengl .
+17:48:03 [INFO] load data success.
+17:48:03 [INFO] hide tools.
+17:48:03 [INFO] opengl initialize.
+17:48:03 [INFO] opengl load data.
+17:48:03 [INFO] opengl handle image load success.
+17:48:03 [INFO] opengl render load success.
+17:48:03 [INFO] opengl coord data load success.
+17:48:03 [INFO] opengl blend data load success.
+17:48:03 [INFO] opengl load data success.
+17:48:06 [INFO] show tools.
+17:48:22 [INFO] select media = D:/电影/Audio.avi
+17:48:22 [INFO] player open movie.
+17:48:27 [INFO] rendering mode = Media | Blend
+17:48:31 [INFO] player play .
+17:48:51 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+17:48:51 [INFO] player open movie.
+17:49:04 [INFO] player play .
+17:49:15 [INFO] player stop .
+17:49:17 [INFO] player play .
+17:49:25 [INFO] end opengl .
+17:49:26 [INFO] Tray uninstall success.
+17:49:26 [INFO] ------------logging end------------
+17:49:26 [INFO]         exit fusion system.        
+17:49:26 [INFO] -----------------------------------
+17:49:26 [INFO] 
+
+
+17:49:26 [INFO] Tray uninstall success.
+17:51:17 [INFO] -----------------------------------
+17:51:17 [INFO]            Fusion System.          
+17:51:17 [INFO]           vision (_v1.3.1)     
+17:51:17 [INFO] Shenzhen YanTu Technology Co., Ltd.
+17:51:17 [INFO]           www.ytsmart.net          
+17:51:17 [INFO] -----------logging begin-----------
+17:51:17 [INFO] start minimize = 2
+17:51:17 [INFO] append windows start = 2
+17:51:17 [INFO] Tray install success.
+17:51:19 [INFO] load data.
+17:51:19 [INFO] select color device id = 0
+17:51:19 [INFO] select image local = :/image/symbol.png
+17:51:19 [INFO] select blend device id = 0
+17:51:20 [INFO] begin opengl .
+17:51:20 [INFO] load data success.
+17:51:20 [INFO] hide tools.
+17:51:20 [INFO] opengl initialize.
+17:51:20 [INFO] opengl load data.
+17:51:20 [INFO] opengl handle image load success.
+17:51:20 [INFO] opengl render load success.
+17:51:20 [INFO] opengl coord data load success.
+17:51:20 [INFO] opengl blend data load success.
+17:51:20 [INFO] opengl load data success.
+17:51:22 [INFO] show tools.
+17:51:27 [INFO] rendering mode = Media | Blend
+17:51:36 [INFO] select media = D:/电影/Audio.avi
+17:51:37 [INFO] player open movie.
+17:51:39 [INFO] player play .
+17:51:45 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+17:51:46 [INFO] player open movie.
+17:51:51 [INFO] player play .
+17:51:53 [INFO] media play mode = loop
+18:00:06 [INFO] -----------------------------------
+18:00:06 [INFO]            Fusion System.          
+18:00:06 [INFO]           vision (_v1.3.1)     
+18:00:06 [INFO] Shenzhen YanTu Technology Co., Ltd.
+18:00:06 [INFO]           www.ytsmart.net          
+18:00:06 [INFO] -----------logging begin-----------
+18:00:06 [INFO] start minimize = 2
+18:00:06 [INFO] append windows start = 2
+18:00:06 [INFO] Tray install success.
+18:00:08 [INFO] load data.
+18:00:08 [INFO] select color device id = 0
+18:00:08 [INFO] select image local = :/image/symbol.png
+18:00:08 [INFO] select blend device id = 0
+18:00:08 [INFO] begin opengl .
+18:00:08 [INFO] load data success.
+18:00:08 [INFO] hide tools.
+18:00:09 [INFO] opengl initialize.
+18:00:09 [INFO] opengl load data.
+18:00:09 [INFO] opengl handle image load success.
+18:00:09 [INFO] opengl render load success.
+18:00:09 [INFO] opengl coord data load success.
+18:00:09 [INFO] opengl blend data load success.
+18:00:09 [INFO] opengl load data success.
+18:00:10 [INFO] show tools.
+18:00:56 [INFO] select media = D:/电影/Audio.avi
+18:00:57 [INFO] player open movie.
+18:01:00 [INFO] player play .
+18:01:03 [INFO] rendering mode = Media | Blend
+18:01:23 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+18:01:24 [INFO] player open movie.
+18:01:27 [INFO] player play .
+18:01:57 [INFO] select media = Audio.avi
+18:01:57 [INFO] player open movie.
+18:02:01 [INFO] player open movie.
+18:02:01 [INFO] player play .
+18:02:04 [INFO] player open movie.
+18:02:04 [INFO] player play .
+18:02:05 [INFO] player open movie.
+18:02:05 [INFO] player play .
+18:02:05 [INFO] player open movie.
+18:02:05 [INFO] player play .
+18:02:05 [INFO] player open movie.
+18:02:05 [INFO] player play .
+18:02:06 [INFO] player open movie.
+18:02:06 [INFO] player play .
+18:02:06 [INFO] player open movie.
+18:02:06 [INFO] player play .
+18:02:07 [INFO] select media = 20121120-AVI_bak.avi
+18:02:07 [INFO] player open movie.
+18:02:08 [INFO] player open movie.
+18:02:08 [INFO] player play .
+18:02:08 [INFO] player open movie.
+18:02:08 [INFO] player play .
+18:02:08 [INFO] player open movie.
+18:02:08 [INFO] player play .
+18:02:09 [INFO] player open movie.
+18:02:09 [INFO] player play .
+18:02:09 [INFO] player open movie.
+18:02:09 [INFO] player play .
+18:02:09 [INFO] player open movie.
+18:02:09 [INFO] player play .
+18:02:11 [INFO] player open movie.
+18:02:11 [INFO] player play .
+18:02:12 [INFO] player open movie.
+18:02:12 [INFO] player play .
+18:02:14 [INFO] player open movie.
+18:02:14 [INFO] player play .
+18:02:15 [INFO] select media = Audio.avi
+18:02:15 [INFO] player open movie.
+18:02:22 [INFO] select media = 20121120-AVI_bak.avi
+18:02:22 [INFO] player open movie.
+18:02:25 [INFO] select media = Audio.avi
+18:02:25 [INFO] player open movie.
+18:02:26 [INFO] select media = Audio.avi
+18:02:26 [INFO] player open movie.
+18:02:27 [INFO] select media = Audio.avi
+18:02:27 [INFO] player open movie.
+18:02:27 [INFO] select media = Audio.avi
+18:02:27 [INFO] player open movie.
+18:02:27 [INFO] select media = Audio.avi
+18:02:27 [INFO] player open movie.
+18:02:28 [INFO] player open movie.
+18:02:28 [INFO] player play .
+18:02:30 [INFO] player open movie.
+18:02:30 [INFO] player play .
+18:02:30 [INFO] player open movie.
+18:02:30 [INFO] player play .
+18:02:30 [INFO] player open movie.
+18:02:30 [INFO] player play .
+18:02:30 [INFO] player open movie.
+18:02:30 [INFO] player play .
+18:02:30 [INFO] player open movie.
+18:02:30 [INFO] player play .
+18:02:31 [INFO] player open movie.
+18:02:31 [INFO] player play .
+18:02:31 [INFO] player open movie.
+18:02:31 [INFO] player play .
+18:02:31 [INFO] player open movie.
+18:02:31 [INFO] player play .
+18:02:43 [INFO] select media = D:/电影/Audio.avi
+18:02:43 [INFO] player open movie.
+18:02:47 [INFO] player play .
+18:02:50 [INFO] player stop .
+18:02:51 [INFO] player play .
+18:03:02 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+18:03:03 [INFO] player open movie.
+18:03:06 [INFO] player play .
+18:03:08 [INFO] player stop .
+18:03:09 [INFO] player play .
+18:03:11 [INFO] select media = Audio.avi
+18:03:11 [INFO] player open movie.
+18:03:11 [INFO] player open movie.
+18:03:11 [INFO] player play .
+18:03:15 [INFO] player open movie.
+18:03:15 [INFO] player play .
+18:03:20 [INFO] select media = 20121120-AVI_bak.avi
+18:03:20 [INFO] player open movie.
+18:03:20 [INFO] select media = Audio.avi
+18:03:20 [INFO] player open movie.
+18:03:21 [INFO] select media = Audio.avi
+18:03:21 [INFO] player open movie.
+18:03:21 [INFO] select media = 20121120-AVI_bak.avi
+18:03:21 [INFO] player open movie.
+18:03:21 [INFO] select media = Audio.avi
+18:03:21 [INFO] player open movie.
+18:03:21 [INFO] select media = 20121120-AVI_bak.avi
+18:03:21 [INFO] player open movie.
+18:03:22 [INFO] select media = Audio.avi
+18:03:22 [INFO] player open movie.
+18:03:22 [INFO] select media = 20121120-AVI_bak.avi
+18:03:22 [INFO] player open movie.
+18:03:23 [INFO] player open movie.
+18:03:23 [INFO] player play .
+18:03:23 [INFO] player open movie.
+18:03:23 [INFO] player play .
+18:03:23 [INFO] player open movie.
+18:03:23 [INFO] player play .
+18:03:23 [INFO] player open movie.
+18:03:23 [INFO] player play .
+18:03:24 [INFO] player open movie.
+18:03:24 [INFO] player play .
+18:03:24 [INFO] player open movie.
+18:03:24 [INFO] player play .
+18:03:27 [INFO] player open movie.
+18:03:27 [INFO] player play .
+18:03:27 [INFO] player open movie.
+18:03:27 [INFO] player play .
+18:03:27 [INFO] player open movie.
+18:03:27 [INFO] player play .
+18:03:27 [INFO] player open movie.
+18:03:27 [INFO] player play .
+18:03:31 [INFO] select media = D:/电影/Audio.avi
+18:03:31 [INFO] player open movie.
+18:03:36 [INFO] player play .
+18:03:42 [INFO] end opengl .
+18:03:43 [INFO] Tray uninstall success.
+18:03:43 [INFO] ------------logging end------------
+18:03:43 [INFO]         exit fusion system.        
+18:03:43 [INFO] -----------------------------------
+18:03:43 [INFO] 
+
+
+18:03:43 [INFO] Tray uninstall success.
+18:09:59 [INFO] -----------------------------------
+18:09:59 [INFO]            Fusion System.          
+18:09:59 [INFO]           vision (_v1.3.1)     
+18:09:59 [INFO] Shenzhen YanTu Technology Co., Ltd.
+18:09:59 [INFO]           www.ytsmart.net          
+18:09:59 [INFO] -----------logging begin-----------
+18:09:59 [INFO] start minimize = 2
+18:09:59 [INFO] append windows start = 2
+18:09:59 [INFO] Tray install success.
+18:10:01 [INFO] load data.
+18:10:01 [INFO] select color device id = 0
+18:10:01 [INFO] select image local = :/image/symbol.png
+18:10:01 [INFO] select blend device id = 0
+18:10:02 [INFO] begin opengl .
+18:10:02 [INFO] load data success.
+18:10:02 [INFO] hide tools.
+18:10:02 [INFO] opengl initialize.
+18:10:02 [INFO] opengl load data.
+18:10:02 [INFO] opengl handle image load success.
+18:10:02 [INFO] opengl render load success.
+18:10:02 [INFO] opengl coord data load success.
+18:10:02 [INFO] opengl blend data load success.
+18:10:02 [INFO] opengl load data success.
+18:10:04 [INFO] show tools.
+18:11:29 [INFO] rendering mode = Media | Blend
+18:11:40 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+18:11:41 [INFO] player open movie.
+18:11:42 [INFO] player play .
+18:11:47 [INFO] select media = D:/电影/Audio.avi
+18:11:47 [INFO] player open movie.
+18:11:50 [INFO] player play .
+18:11:59 [INFO] select media = 20121120-AVI_bak.avi
+18:11:59 [INFO] player open movie.
+18:12:26 [INFO] end opengl .
+18:12:27 [INFO] Tray uninstall success.
+18:12:27 [INFO] ------------logging end------------
+18:12:27 [INFO]         exit fusion system.        
+18:12:27 [INFO] -----------------------------------
+18:12:27 [INFO] 
+
+
+18:12:27 [INFO] Tray uninstall success.
+18:17:27 [INFO] -----------------------------------
+18:17:27 [INFO]            Fusion System.          
+18:17:27 [INFO]           vision (_v1.3.1)     
+18:17:27 [INFO] Shenzhen YanTu Technology Co., Ltd.
+18:17:27 [INFO]           www.ytsmart.net          
+18:17:27 [INFO] -----------logging begin-----------
+18:17:27 [INFO] start minimize = 2
+18:17:27 [INFO] append windows start = 2
+18:17:27 [INFO] Tray install success.
+18:17:29 [INFO] load data.
+18:17:29 [INFO] select color device id = 0
+18:17:29 [INFO] select image local = :/image/symbol.png
+18:17:29 [INFO] select blend device id = 0
+18:17:30 [INFO] begin opengl .
+18:17:30 [INFO] load data success.
+18:17:30 [INFO] hide tools.
+18:17:30 [INFO] opengl initialize.
+18:17:30 [INFO] opengl load data.
+18:17:30 [INFO] opengl handle image load success.
+18:17:30 [INFO] opengl render load success.
+18:17:30 [INFO] opengl coord data load success.
+18:17:30 [INFO] opengl blend data load success.
+18:17:30 [INFO] opengl load data success.
+18:17:32 [INFO] show tools.
+18:17:44 [INFO] show tools.
+18:17:48 [INFO] rendering mode = Media | Blend
+18:17:55 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+18:17:55 [INFO] player open movie.
+18:17:57 [INFO] player play .
+18:18:03 [INFO] select media = D:/电影/Audio.avi
+18:18:03 [INFO] player open movie.
+18:18:07 [INFO] player play .
+18:18:11 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+18:18:11 [INFO] player open movie.
+18:18:13 [INFO] player play .
+18:18:59 [INFO] select media = D:/电影/Audio.avi
+18:18:59 [INFO] player open movie.
+18:19:01 [INFO] player play .
+18:19:37 [INFO] end opengl .
+18:19:38 [INFO] Tray uninstall success.
+18:19:38 [INFO] ------------logging end------------
+18:19:38 [INFO]         exit fusion system.        
+18:19:38 [INFO] -----------------------------------
+18:19:38 [INFO] 
+
+
+18:19:38 [INFO] Tray uninstall success.
+18:24:31 [INFO] -----------------------------------
+18:24:31 [INFO]            Fusion System.          
+18:24:31 [INFO]           vision (_v1.3.1)     
+18:24:31 [INFO] Shenzhen YanTu Technology Co., Ltd.
+18:24:31 [INFO]           www.ytsmart.net          
+18:24:31 [INFO] -----------logging begin-----------
+18:24:31 [INFO] start minimize = 2
+18:24:31 [INFO] append windows start = 2
+18:24:31 [INFO] Tray install success.
+18:24:33 [INFO] load data.
+18:24:33 [INFO] select color device id = 0
+18:24:33 [INFO] select image local = :/image/symbol.png
+18:24:33 [INFO] select blend device id = 0
+18:24:34 [INFO] begin opengl .
+18:24:34 [INFO] load data success.
+18:24:34 [INFO] hide tools.
+18:24:34 [INFO] opengl initialize.
+18:24:34 [INFO] opengl load data.
+18:24:34 [INFO] opengl handle image load success.
+18:24:34 [INFO] opengl render load success.
+18:24:34 [INFO] opengl coord data load success.
+18:24:34 [INFO] opengl blend data load success.
+18:24:34 [INFO] opengl load data success.
+18:24:35 [INFO] show tools.
+18:24:41 [INFO] rendering mode = Media | Blend
+18:24:50 [INFO] select media = C:/Users/kunyang/Desktop/梦幻桌面.avi
+11:00:01 [INFO] -----------------------------------
+11:00:01 [INFO]            Fusion System.          
+11:00:01 [INFO]           vision (_v1.3.1)     
+11:00:01 [INFO] Shenzhen YanTu Technology Co., Ltd.
+11:00:01 [INFO]           www.ytsmart.net          
+11:00:01 [INFO] -----------logging begin-----------
+11:00:05 [INFO] start minimize = 2
+11:00:05 [INFO] append windows start = 2
+11:00:05 [INFO] Tray install success.
+11:00:07 [INFO] load data.
+11:00:07 [INFO] select color device id = 0
+11:00:07 [INFO] select image local = :/image/symbol.png
+11:00:07 [INFO] select blend device id = 0
+11:00:08 [INFO] begin opengl .
+11:00:08 [INFO] load data success.
+11:00:08 [INFO] hide tools.
+11:00:09 [INFO] opengl initialize.
+11:00:09 [INFO] opengl load data.
+11:00:09 [INFO] opengl handle image load success.
+11:00:09 [INFO] opengl render load success.
+11:00:09 [INFO] opengl coord data load success.
+11:00:09 [INFO] opengl blend data load success.
+11:00:09 [INFO] opengl load data success.
+11:00:09 [INFO] show tools.
+11:00:12 [INFO] rendering mode = Media | Blend
+11:00:57 [INFO] select media = H:/梦幻桌面.mp4
+11:00:57 [INFO] player open movie.
+11:01:02 [INFO] player open movie.
+11:01:02 [INFO] player play .
+11:03:32 [INFO] player open movie.
+11:03:32 [INFO] player play .
+11:03:40 [INFO] select media = H:/调试视频.MOV
+11:03:40 [INFO] player open movie.
+11:03:44 [INFO] player open movie.
+11:03:44 [INFO] player play .
+11:03:48 [INFO] select media = H:/梦幻桌面.mp4
+11:03:48 [INFO] player open movie.
+11:03:51 [INFO] player open movie.
+11:03:51 [INFO] player play .
+11:03:52 [INFO] player open movie.
+11:03:52 [INFO] player play .
+11:03:52 [INFO] player open movie.
+11:03:52 [INFO] player play .
+11:03:52 [INFO] player open movie.
+11:03:52 [INFO] player play .
+11:03:59 [INFO] select media = H:/桌面圣诞24人.mp4
+11:03:59 [INFO] player open movie.
+11:04:03 [INFO] player open movie.
+11:04:03 [INFO] player play .
+11:04:05 [INFO] player open movie.
+11:04:05 [INFO] player play .
+11:04:05 [INFO] player open movie.
+11:04:05 [INFO] player play .
+11:04:05 [INFO] player open movie.
+11:04:05 [INFO] player play .
+11:04:06 [INFO] player open movie.
+11:04:06 [INFO] player play .
+11:04:06 [INFO] player open movie.
+11:04:06 [INFO] player play .
+11:04:06 [INFO] player open movie.
+11:04:06 [INFO] player play .
+11:04:08 [INFO] end opengl .
+11:04:09 [INFO] Tray uninstall success.
+11:04:09 [INFO] ------------logging end------------
+11:04:09 [INFO]         exit fusion system.        
+11:04:09 [INFO] -----------------------------------
+11:04:09 [INFO] 
+
+
+11:04:09 [INFO] Tray uninstall success.
+11:04:14 [INFO] -----------------------------------
+11:04:14 [INFO]            Fusion System.          
+11:04:14 [INFO]           vision (_v1.3.1)     
+11:04:14 [INFO] Shenzhen YanTu Technology Co., Ltd.
+11:04:14 [INFO]           www.ytsmart.net          
+11:04:14 [INFO] -----------logging begin-----------
+11:04:14 [INFO] start minimize = 2
+11:04:14 [INFO] append windows start = 2
+11:04:14 [INFO] Tray install success.
+11:04:16 [INFO] load data.
+11:04:16 [INFO] select color device id = 0
+11:04:16 [INFO] select image local = :/image/symbol.png
+11:04:16 [INFO] select blend device id = 0
+11:04:16 [INFO] begin opengl .
+11:04:17 [INFO] load data success.
+11:04:17 [INFO] hide tools.
+11:04:17 [INFO] opengl initialize.
+11:04:17 [INFO] opengl load data.
+11:04:17 [INFO] opengl handle image load success.
+11:04:17 [INFO] opengl render load success.
+11:04:17 [INFO] opengl coord data load success.
+11:04:17 [INFO] opengl blend data load success.
+11:04:17 [INFO] opengl load data success.
+11:04:18 [INFO] show tools.
+11:04:23 [INFO] rendering mode = Media | Blend
+11:04:31 [INFO] select media = H:/梦幻桌面.mp4
+11:04:31 [INFO] player open movie.
+11:04:35 [INFO] player open movie.
+11:04:35 [INFO] player play .
+11:05:47 [INFO] player open movie.
+11:05:47 [INFO] player play .
+11:05:47 [INFO] player open movie.
+11:05:47 [INFO] player play .
+11:05:51 [INFO] show tools.
+11:05:54 [INFO] end opengl .
+11:05:54 [INFO] Tray uninstall success.
+11:05:54 [INFO] ------------logging end------------
+11:05:54 [INFO]         exit fusion system.        
+11:05:54 [INFO] -----------------------------------
+11:05:54 [INFO] 
+
+
+11:05:54 [INFO] Tray uninstall success.
+11:05:57 [INFO] -----------------------------------
+11:05:57 [INFO]            Fusion System.          
+11:05:57 [INFO]           vision (_v1.3.1)     
+11:05:57 [INFO] Shenzhen YanTu Technology Co., Ltd.
+11:05:57 [INFO]           www.ytsmart.net          
+11:05:57 [INFO] -----------logging begin-----------
+11:05:57 [INFO] start minimize = 2
+11:05:57 [INFO] append windows start = 2
+11:05:57 [INFO] Tray install success.
+11:05:59 [INFO] load data.
+11:05:59 [INFO] select color device id = 0
+11:05:59 [INFO] select image local = :/image/symbol.png
+11:05:59 [INFO] select blend device id = 0
+11:06:00 [INFO] begin opengl .
+11:06:00 [INFO] load data success.
+11:06:00 [INFO] hide tools.
+11:06:00 [INFO] opengl initialize.
+11:06:00 [INFO] opengl load data.
+11:06:00 [INFO] opengl handle image load success.
+11:06:00 [INFO] opengl render load success.
+11:06:00 [INFO] opengl coord data load success.
+11:06:00 [INFO] opengl blend data load success.
+11:06:00 [INFO] opengl load data success.
+11:06:05 [INFO] show tools.
+11:06:09 [INFO] rendering mode = Media | Blend
+11:06:16 [INFO] select media = H:/梦幻桌面.mp4
+11:06:16 [INFO] player open movie.
+11:06:19 [INFO] player open movie.
+11:06:19 [INFO] player play .
+11:06:27 [INFO] end opengl .
+11:06:28 [INFO] Tray uninstall success.
+11:06:28 [INFO] ------------logging end------------
+11:06:28 [INFO]         exit fusion system.        
+11:06:28 [INFO] -----------------------------------
+11:06:28 [INFO] 
+
+
+11:06:28 [INFO] Tray uninstall success.
+11:42:14 [INFO] -----------------------------------
+11:42:14 [INFO]            Fusion System.          
+11:42:14 [INFO]           vision (_v1.3.1)     
+11:42:14 [INFO] Shenzhen YanTu Technology Co., Ltd.
+11:42:14 [INFO]           www.ytsmart.net          
+11:42:14 [INFO] -----------logging begin-----------
+11:42:14 [INFO] start minimize = 2
+11:42:14 [INFO] append windows start = 2
+11:42:15 [INFO] Tray install success.
+11:42:16 [INFO] load data.
+11:42:16 [INFO] select color device id = 0
+11:42:16 [INFO] select image local = :/image/symbol.png
+11:42:17 [INFO] select blend device id = 0
+11:42:17 [INFO] begin opengl .
+11:42:17 [INFO] load data success.
+11:42:17 [INFO] hide tools.
+11:42:17 [INFO] opengl initialize.
+11:42:17 [INFO] opengl load data.
+11:42:17 [INFO] opengl handle image load success.
+11:42:17 [INFO] opengl render load success.
+11:42:17 [INFO] opengl coord data load success.
+11:42:17 [INFO] opengl blend data load success.
+11:42:17 [INFO] opengl load data success.
+11:42:18 [INFO] show tools.
+11:42:21 [INFO] rendering mode = Media | Blend
+11:42:28 [INFO] select media = H:/梦幻桌面.mp4
+11:42:28 [INFO] player open movie.
+11:42:30 [INFO] player open movie.
+11:42:30 [INFO] player play .
+11:42:33 [INFO] player open movie.
+11:42:33 [INFO] player play .
+11:42:36 [INFO] select media = H:/360度环幕.avi
+11:42:37 [INFO] player open movie.
+11:42:40 [INFO] player play .
+11:42:42 [INFO] player stop .
+11:42:45 [INFO] player play .
+11:42:48 [INFO] show tools.
+11:42:49 [INFO] show tools.
+11:42:49 [INFO] show tools.
+11:42:49 [INFO] show tools.
+11:42:50 [INFO] show tools.
+11:42:53 [INFO] player stop .
+11:43:07 [INFO] select media = D:/电影/20121120-AVI_bak.avi
+11:43:08 [INFO] player open movie.
+11:43:10 [INFO] player play .
+11:43:16 [INFO] end opengl .
+11:43:17 [INFO] Tray uninstall success.
+11:43:17 [INFO] ------------logging end------------
+11:43:17 [INFO]         exit fusion system.        
+11:43:17 [INFO] -----------------------------------
+11:43:17 [INFO] 
+
+
+11:43:17 [INFO] Tray uninstall success.
+12:03:20 [INFO] -----------------------------------
+12:03:20 [INFO]            Fusion System.          
+12:03:20 [INFO]           vision (_v1.3.1)     
+12:03:20 [INFO] Shenzhen YanTu Technology Co., Ltd.
+12:03:20 [INFO]           www.ytsmart.net          
+12:03:20 [INFO] -----------logging begin-----------
+12:03:20 [INFO] start minimize = 2
+12:03:20 [INFO] append windows start = 2
+12:03:20 [INFO] Tray install success.
+12:03:22 [INFO] load data.
+12:03:22 [INFO] select color device id = 0
+12:03:22 [INFO] select image local = :/image/symbol.png
+12:03:22 [INFO] select blend device id = 0
+12:03:23 [INFO] begin opengl .
+12:03:23 [INFO] load data success.
+12:03:23 [INFO] hide tools.
+12:03:23 [INFO] opengl initialize.
+12:03:23 [INFO] opengl load data.
+12:03:23 [INFO] opengl handle image load success.
+12:03:23 [INFO] opengl render load success.
+12:03:23 [INFO] opengl coord data load success.
+12:03:23 [INFO] opengl blend data load success.
+12:03:23 [INFO] opengl load data success.
+12:03:24 [INFO] show tools.
+12:03:27 [INFO] end opengl .
+12:03:28 [INFO] Tray uninstall success.
+12:03:28 [INFO] ------------logging end------------
+12:03:28 [INFO]         exit fusion system.        
+12:03:28 [INFO] -----------------------------------
+12:03:28 [INFO] 
+
+
+12:03:28 [INFO] Tray uninstall success.
+12:06:32 [INFO] -----------------------------------
+12:06:32 [INFO]            Fusion System.          
+12:06:32 [INFO]           vision (_v1.3.1)     
+12:06:32 [INFO] Shenzhen YanTu Technology Co., Ltd.
+12:06:32 [INFO]           www.ytsmart.net          
+12:06:32 [INFO] -----------logging begin-----------
+12:06:32 [INFO] start minimize = 2
+12:06:32 [INFO] append windows start = 2
+12:06:32 [INFO] Tray install success.
+12:06:34 [INFO] load data.
+12:06:34 [INFO] select color device id = 0
+12:06:34 [INFO] select image local = :/image/symbol.png
+12:06:34 [INFO] select blend device id = 0
+12:06:34 [INFO] begin opengl .
+12:06:35 [INFO] load data success.
+12:06:35 [INFO] hide tools.
+12:06:35 [INFO] opengl initialize.
+12:06:35 [INFO] opengl load data.
+12:06:35 [INFO] opengl handle image load success.
+12:06:35 [INFO] opengl render load success.
+12:06:35 [INFO] opengl coord data load success.
+12:06:35 [INFO] opengl blend data load success.
+12:06:35 [INFO] opengl load data success.
+12:06:36 [INFO] show tools.
+12:06:39 [INFO] end opengl .
+12:06:40 [INFO] Tray uninstall success.
+12:06:40 [INFO] ------------logging end------------
+12:06:40 [INFO]         exit fusion system.        
+12:06:40 [INFO] -----------------------------------
+12:06:40 [INFO] 
+
+
+12:06:40 [INFO] Tray uninstall success.
+12:09:15 [INFO] -----------------------------------
+12:09:15 [INFO]            Fusion System.          
+12:09:15 [INFO]           vision (_v1.3.1)     
+12:09:15 [INFO] Shenzhen YanTu Technology Co., Ltd.
+12:09:15 [INFO]           www.ytsmart.net          
+12:09:15 [INFO] -----------logging begin-----------
+12:09:15 [INFO] start minimize = 2
+12:09:15 [INFO] append windows start = 2
+12:09:15 [INFO] Tray install success.
+12:09:17 [ERROR] Validation license error!
+12:09:20 [INFO] hide tools.
+12:16:40 [INFO] Tray uninstall success.
+12:21:29 [INFO] etc/media/video/
+12:21:29 [INFO] -----------------------------------
+12:21:29 [INFO]            Fusion System.          
+12:21:29 [INFO]           vision (_v1.3.1)     
+12:21:29 [INFO] Shenzhen YanTu Technology Co., Ltd.
+12:21:29 [INFO]           www.ytsmart.net          
+12:21:29 [INFO] -----------logging begin-----------
+12:21:29 [INFO] start minimize = 2
+12:21:29 [INFO] append windows start = 2
+12:21:29 [INFO] Tray install success.
+12:21:31 [ERROR] Validation license error!
+12:21:34 [INFO] hide tools.
+12:22:42 [INFO] Tray uninstall success.
+12:57:09 [INFO] -----------------------------------
+12:57:09 [INFO]            Fusion System.          
+12:57:09 [INFO]           vision (_v1.3.1)     
+12:57:09 [INFO] Shenzhen YanTu Technology Co., Ltd.
+12:57:09 [INFO]           www.ytsmart.net          
+12:57:09 [INFO] -----------logging begin-----------
+12:57:09 [INFO] start minimize = 2
+12:57:09 [INFO] append windows start = 2
+12:57:09 [INFO] Tray install success.
+12:57:11 [INFO] load data.
+12:57:11 [INFO] select color device id = 0
+12:57:11 [INFO] select image local = :/image/symbol.png
+12:57:11 [INFO] select blend device id = 0
+12:57:12 [INFO] begin opengl .
+12:57:12 [INFO] load data success.
+12:57:12 [INFO] hide tools.
+12:57:12 [INFO] opengl initialize.
+12:57:12 [INFO] opengl load data.
+12:57:12 [INFO] opengl handle image load success.
+12:57:12 [INFO] opengl render load success.
+12:57:12 [INFO] opengl coord data load success.
+12:57:12 [INFO] opengl blend data load success.
+12:57:12 [INFO] opengl load data success.
+12:57:14 [INFO] show tools.
+12:57:18 [INFO] rendering mode = Media | Blend
+12:57:30 [INFO] end opengl .
+12:57:31 [INFO] Tray uninstall success.
+12:57:31 [INFO] ------------logging end------------
+12:57:31 [INFO]         exit fusion system.        
+12:57:31 [INFO] -----------------------------------
+12:57:31 [INFO] 
+
+
+12:57:31 [INFO] Tray uninstall success.
+13:02:44 [INFO] -----------------------------------
+13:02:44 [INFO]            Fusion System.          
+13:02:44 [INFO]           vision (_v1.3.1)     
+13:02:44 [INFO] Shenzhen YanTu Technology Co., Ltd.
+13:02:44 [INFO]           www.ytsmart.net          
+13:02:44 [INFO] -----------logging begin-----------
+13:02:44 [INFO] start minimize = 2
+13:02:44 [INFO] append windows start = 2
+13:02:45 [INFO] Tray install success.
+13:02:46 [INFO] load data.
+13:02:46 [INFO] select color device id = 0
+13:02:46 [INFO] select image local = :/image/symbol.png
+13:02:47 [INFO] select blend device id = 0
+13:02:47 [INFO] begin opengl .
+13:02:47 [INFO] load data success.
+13:02:47 [INFO] hide tools.
+13:02:47 [INFO] opengl initialize.
+13:02:47 [INFO] opengl load data.
+13:02:47 [INFO] opengl handle image load success.
+13:02:47 [INFO] opengl render load success.
+13:02:47 [INFO] opengl coord data load success.
+13:02:48 [INFO] opengl blend data load success.
+13:02:48 [INFO] opengl load data success.
+13:02:50 [INFO] show tools.
+13:24:00 [INFO] -----------------------------------
+13:24:00 [INFO]            Fusion System.          
+13:24:00 [INFO]           vision (_v1.3.1)     
+13:24:00 [INFO] Shenzhen YanTu Technology Co., Ltd.
+13:24:00 [INFO]           www.ytsmart.net          
+13:24:00 [INFO] -----------logging begin-----------
+13:24:00 [INFO] start minimize = 2
+13:24:00 [INFO] append windows start = 2
+13:24:00 [INFO] Tray install success.
+13:24:02 [INFO] load data.
+13:24:02 [INFO] select color device id = 0
+13:24:02 [INFO] select image local = :/image/symbol.png
+13:24:02 [INFO] select blend device id = 0
+13:24:03 [INFO] begin opengl .
+13:24:03 [INFO] load data success.
+13:24:03 [INFO] hide tools.
+13:24:03 [INFO] opengl initialize.
+13:24:03 [INFO] opengl load data.
+13:24:03 [INFO] opengl handle image load success.
+13:24:03 [INFO] opengl render load success.
+13:24:03 [INFO] opengl coord data load success.
+13:24:03 [INFO] opengl blend data load success.
+13:24:03 [INFO] opengl load data success.
+13:24:05 [INFO] show tools.
+13:24:44 [INFO] end opengl .
+13:24:45 [INFO] Tray uninstall success.
+13:24:45 [INFO] ------------logging end------------
+13:24:45 [INFO]         exit fusion system.        
+13:24:45 [INFO] -----------------------------------
+13:24:45 [INFO] 
+
+
+13:24:45 [INFO] Tray uninstall success.
+13:30:09 [INFO] -----------------------------------
+13:30:09 [INFO]            Fusion System.          
+13:30:09 [INFO]           vision (_v1.3.1)     
+13:30:09 [INFO] Shenzhen YanTu Technology Co., Ltd.
+13:30:09 [INFO]           www.ytsmart.net          
+13:30:09 [INFO] -----------logging begin-----------
+13:30:09 [INFO] start minimize = 2
+13:30:09 [INFO] append windows start = 2
+13:30:09 [INFO] Tray install success.
+13:30:11 [INFO] load data.
+13:30:11 [INFO] select color device id = 0
+13:30:11 [INFO] select image local = :/image/symbol.png
+13:30:11 [INFO] select blend device id = 0
+13:30:12 [INFO] begin opengl .
+13:30:12 [INFO] load data success.
+13:30:12 [INFO] hide tools.
+13:30:12 [INFO] opengl initialize.
+13:30:12 [INFO] opengl load data.
+13:30:12 [INFO] opengl handle image load success.
+13:30:12 [INFO] opengl render load success.
+13:30:12 [INFO] opengl coord data load success.
+13:30:12 [INFO] opengl blend data load success.
+13:30:12 [INFO] opengl load data success.
+13:30:13 [INFO] show tools.
+13:30:20 [INFO] rendering mode = Media | Blend
+13:30:41 [INFO] select media = E:/kunyang-2016/FusionM/FusionM/bin/etc/media/video/桌面圣诞24人.avi
+13:30:42 [INFO] player open movie.
+13:30:45 [INFO] player play .
+13:31:14 [INFO] player stop .
+13:31:17 [INFO] end opengl .
+13:31:18 [INFO] Tray uninstall success.
+13:31:18 [INFO] ------------logging end------------
+13:31:18 [INFO]         exit fusion system.        
+13:31:18 [INFO] -----------------------------------
+13:31:18 [INFO] 
+
+
+13:31:18 [INFO] Tray uninstall success.
+13:34:28 [INFO] -----------------------------------
+13:34:28 [INFO]            Fusion System.          
+13:34:28 [INFO]           vision (_v1.3.1)     
+13:34:28 [INFO] Shenzhen YanTu Technology Co., Ltd.
+13:34:28 [INFO]           www.ytsmart.net          
+13:34:28 [INFO] -----------logging begin-----------
+13:34:28 [INFO] start minimize = 2
+13:34:28 [INFO] append windows start = 2
+13:34:28 [INFO] Tray install success.
+13:34:30 [ERROR] Validation license error!
+13:34:32 [INFO] hide tools.
+13:34:41 [INFO] Tray uninstall success.
+14:04:06 [INFO] -----------------------------------
+14:04:06 [INFO]            Fusion System.          
+14:04:06 [INFO]           vision (_v1.3.1)     
+14:04:06 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:04:06 [INFO]           www.ytsmart.net          
+14:04:06 [INFO] -----------logging begin-----------
+14:04:06 [INFO] start minimize = 2
+14:04:06 [INFO] append windows start = 2
+14:04:06 [INFO] Tray install success.
+14:04:08 [INFO] load data.
+14:04:08 [INFO] select color device id = 0
+14:04:08 [INFO] select image local = :/image/symbol.png
+14:04:08 [INFO] select blend device id = 0
+14:04:08 [INFO] begin opengl .
+14:04:08 [INFO] load data success.
+14:04:08 [INFO] hide tools.
+14:04:08 [INFO] opengl initialize.
+14:04:08 [INFO] opengl load data.
+14:04:08 [INFO] opengl handle image load success.
+14:04:08 [INFO] opengl render load success.
+14:04:08 [INFO] opengl coord data load success.
+14:04:08 [INFO] opengl blend data load success.
+14:04:08 [INFO] opengl load data success.
+14:04:11 [INFO] show tools.
+14:04:17 [INFO] rendering mode = Media | Blend
+14:04:44 [INFO] Tray uninstall success.
+14:05:51 [INFO] -----------------------------------
+14:05:51 [INFO]            Fusion System.          
+14:05:51 [INFO]           vision (_v1.3.1)     
+14:05:51 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:05:51 [INFO]           www.ytsmart.net          
+14:05:51 [INFO] -----------logging begin-----------
+14:05:51 [INFO] start minimize = 2
+14:05:51 [INFO] append windows start = 2
+14:05:51 [INFO] Tray install success.
+14:05:53 [INFO] load data.
+14:05:53 [INFO] select color device id = 0
+14:05:53 [INFO] select image local = :/image/symbol.png
+14:05:53 [INFO] select blend device id = 0
+14:05:53 [INFO] begin opengl .
+14:05:53 [INFO] load data success.
+14:05:53 [INFO] hide tools.
+14:05:53 [INFO] opengl initialize.
+14:05:53 [INFO] opengl load data.
+14:05:53 [INFO] opengl handle image load success.
+14:05:53 [INFO] opengl render load success.
+14:05:53 [INFO] opengl coord data load success.
+14:05:53 [INFO] opengl blend data load success.
+14:05:53 [INFO] opengl load data success.
+14:05:57 [INFO] show tools.
+14:06:04 [INFO] end opengl .
+14:06:04 [INFO] Tray uninstall success.
+14:06:04 [INFO] ------------logging end------------
+14:06:04 [INFO]         exit fusion system.        
+14:06:04 [INFO] -----------------------------------
+14:06:04 [INFO] 
+
+
+14:06:04 [INFO] Tray uninstall success.
+14:15:58 [INFO] -----------------------------------
+14:15:58 [INFO]            Fusion System.          
+14:15:58 [INFO]           vision (_v1.3.1)     
+14:15:58 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:15:58 [INFO]           www.ytsmart.net          
+14:15:58 [INFO] -----------logging begin-----------
+14:15:58 [INFO] start minimize = 2
+14:15:58 [INFO] append windows start = 2
+14:15:58 [INFO] Tray install success.
+14:16:00 [INFO] load data.
+14:16:00 [INFO] select color device id = 0
+14:16:00 [INFO] select image local = :/image/symbol.png
+14:16:00 [INFO] select blend device id = 0
+14:16:00 [INFO] begin opengl .
+14:16:00 [INFO] load data success.
+14:16:00 [INFO] hide tools.
+14:16:00 [INFO] opengl initialize.
+14:16:01 [INFO] opengl load data.
+14:16:01 [INFO] opengl handle image load success.
+14:16:01 [INFO] opengl render load success.
+14:16:01 [INFO] opengl coord data load success.
+14:16:01 [INFO] opengl blend data load success.
+14:16:01 [INFO] opengl load data success.
+14:17:56 [INFO] Tray uninstall success.
+14:18:34 [INFO] -----------------------------------
+14:18:34 [INFO]            Fusion System.          
+14:18:34 [INFO]           vision (_v1.3.1)     
+14:18:34 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:18:34 [INFO]           www.ytsmart.net          
+14:18:34 [INFO] -----------logging begin-----------
+14:18:34 [INFO] start minimize = 2
+14:18:34 [INFO] append windows start = 2
+14:18:34 [INFO] Tray install success.
+14:18:36 [INFO] load data.
+14:18:36 [INFO] select color device id = 0
+14:18:36 [INFO] select image local = :/image/symbol.png
+14:18:36 [INFO] select blend device id = 0
+14:18:37 [INFO] begin opengl .
+14:18:37 [INFO] load data success.
+14:18:37 [INFO] hide tools.
+14:18:37 [INFO] opengl initialize.
+14:18:37 [INFO] opengl load data.
+14:18:37 [INFO] opengl handle image load success.
+14:18:37 [INFO] opengl render load success.
+14:18:37 [INFO] opengl coord data load success.
+14:18:37 [INFO] opengl blend data load success.
+14:18:37 [INFO] opengl load data success.
+14:19:22 [INFO] Tray uninstall success.
+14:20:21 [INFO] -----------------------------------
+14:20:21 [INFO]            Fusion System.          
+14:20:21 [INFO]           vision (_v1.3.1)     
+14:20:21 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:20:21 [INFO]           www.ytsmart.net          
+14:20:21 [INFO] -----------logging begin-----------
+14:20:21 [INFO] start minimize = 2
+14:20:21 [INFO] append windows start = 2
+14:20:21 [INFO] Tray install success.
+14:20:23 [INFO] load data.
+14:20:23 [INFO] select color device id = 0
+14:20:23 [INFO] select image local = :/image/symbol.png
+14:20:23 [INFO] select blend device id = 0
+14:20:24 [INFO] begin opengl .
+14:20:24 [INFO] load data success.
+14:20:24 [INFO] hide tools.
+14:20:24 [INFO] opengl initialize.
+14:20:24 [INFO] opengl load data.
+14:20:24 [INFO] opengl handle image load success.
+14:20:24 [INFO] opengl render load success.
+14:20:24 [INFO] opengl coord data load success.
+14:20:24 [INFO] opengl blend data load success.
+14:20:24 [INFO] opengl load data success.
+14:21:05 [INFO] Tray uninstall success.
+14:26:45 [INFO] -----------------------------------
+14:26:45 [INFO]            Fusion System.          
+14:26:45 [INFO]           vision (_v1.3.1)     
+14:26:45 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:26:45 [INFO]           www.ytsmart.net          
+14:26:45 [INFO] -----------logging begin-----------
+14:26:45 [INFO] start minimize = 2
+14:26:45 [INFO] append windows start = 2
+14:26:45 [INFO] Tray install success.
+14:26:47 [INFO] load data.
+14:26:47 [INFO] select color device id = 0
+14:26:47 [INFO] select image local = :/image/symbol.png
+14:26:47 [INFO] select blend device id = 0
+14:26:47 [INFO] begin opengl .
+14:26:47 [INFO] load data success.
+14:26:47 [INFO] hide tools.
+14:26:47 [INFO] opengl initialize.
+14:26:47 [INFO] opengl load data.
+14:26:47 [INFO] opengl handle image load success.
+14:26:47 [INFO] opengl render load success.
+14:26:47 [INFO] opengl coord data load success.
+14:26:47 [INFO] opengl blend data load success.
+14:26:47 [INFO] opengl load data success.
+14:26:50 [INFO] show tools.
+14:28:34 [INFO] Tray uninstall success.
+14:35:46 [INFO] -----------------------------------
+14:35:46 [INFO]            Fusion System.          
+14:35:46 [INFO]           vision (_v1.3.1)     
+14:35:46 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:35:46 [INFO]           www.ytsmart.net          
+14:35:46 [INFO] -----------logging begin-----------
+14:35:46 [INFO] start minimize = 2
+14:35:46 [INFO] append windows start = 2
+14:35:46 [INFO] Tray install success.
+14:35:48 [INFO] load data.
+14:35:48 [INFO] select color device id = 0
+14:35:48 [INFO] select image local = :/image/symbol.png
+14:35:48 [INFO] select blend device id = 0
+14:35:49 [INFO] begin opengl .
+14:35:49 [INFO] load data success.
+14:35:49 [INFO] hide tools.
+14:35:49 [INFO] opengl initialize.
+14:35:49 [INFO] opengl load data.
+14:35:49 [INFO] opengl handle image load success.
+14:35:49 [INFO] opengl render load success.
+14:35:49 [INFO] opengl coord data load success.
+14:35:49 [INFO] opengl blend data load success.
+14:35:49 [INFO] opengl load data success.
+14:35:52 [INFO] show tools.
+14:36:08 [INFO] select media = E:/kunyang-2016/FusionM/FusionM/bin/etc/media/video/桌面圣诞24人.avi
+14:36:09 [INFO] player open movie.
+14:36:45 [INFO] rendering mode = Media | Blend
+14:36:46 [INFO] select media = E:/kunyang-2016/FusionM/FusionM/bin/etc/media/video/桌面圣诞24人.avi
+14:36:47 [INFO] player open movie.
+14:36:48 [INFO] player play .
+14:36:51 [INFO] end opengl .
+14:36:51 [INFO] Tray uninstall success.
+14:36:51 [INFO] ------------logging end------------
+14:36:51 [INFO]         exit fusion system.        
+14:36:51 [INFO] -----------------------------------
+14:36:51 [INFO] 
+
+
+14:36:51 [INFO] Tray uninstall success.
+14:40:22 [INFO] -----------------------------------
+14:40:22 [INFO]            Fusion System.          
+14:40:22 [INFO]           vision (_v1.3.1)     
+14:40:22 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:40:22 [INFO]           www.ytsmart.net          
+14:40:22 [INFO] -----------logging begin-----------
+14:40:22 [INFO] start minimize = 2
+14:40:22 [INFO] append windows start = 2
+14:40:23 [INFO] Tray install success.
+14:40:25 [INFO] load data.
+14:40:25 [INFO] select color device id = 0
+14:40:25 [INFO] select image local = :/image/symbol.png
+14:40:25 [INFO] select blend device id = 0
+14:40:25 [INFO] begin opengl .
+14:40:25 [INFO] load data success.
+14:40:25 [INFO] hide tools.
+14:40:25 [INFO] opengl initialize.
+14:40:25 [INFO] opengl load data.
+14:40:25 [INFO] opengl handle image load success.
+14:40:25 [INFO] opengl render load success.
+14:40:25 [INFO] opengl coord data load success.
+14:40:25 [INFO] opengl blend data load success.
+14:40:25 [INFO] opengl load data success.
+14:41:00 [INFO] Tray uninstall success.
+14:55:06 [INFO] -----------------------------------
+14:55:06 [INFO]            Fusion System.          
+14:55:06 [INFO]           vision (_v1.3.1)     
+14:55:06 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:55:06 [INFO]           www.ytsmart.net          
+14:55:06 [INFO] -----------logging begin-----------
+14:55:06 [INFO] start minimize = 2
+14:55:06 [INFO] append windows start = 2
+14:55:06 [INFO] Tray install success.
+14:55:08 [INFO] load data.
+14:55:08 [INFO] select color device id = 0
+14:55:08 [INFO] select image local = :/image/symbol.png
+14:55:09 [INFO] select blend device id = 0
+14:55:09 [INFO] begin opengl .
+14:55:09 [INFO] load data success.
+14:55:09 [INFO] hide tools.
+14:55:09 [INFO] opengl initialize.
+14:55:09 [INFO] opengl load data.
+14:55:09 [INFO] opengl handle image load success.
+14:55:09 [INFO] opengl render load success.
+14:55:09 [INFO] opengl coord data load success.
+14:55:09 [INFO] opengl blend data load success.
+14:55:09 [INFO] opengl load data success.
+14:55:10 [INFO] show tools.
+14:55:14 [INFO] rendering mode = Media | Blend
+14:55:19 [INFO] select media = etc/media/video/360度环幕.avi
+14:55:19 [INFO] player open movie.
+14:55:22 [INFO] player play .
+14:55:28 [INFO] select media = etc/media/video/地幕.avi
+14:55:28 [INFO] player open movie.
+14:55:30 [INFO] player play .
+14:55:35 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+14:55:35 [INFO] player open movie.
+14:55:37 [INFO] player play .
+14:55:39 [INFO] select media = etc/media/video/餐桌投影.avi
+14:55:39 [INFO] player open movie.
+14:55:40 [INFO] player play .
+14:55:41 [INFO] player stop .
+14:55:42 [INFO] player play .
+15:02:34 [INFO] select media = etc/media/video/地幕.avi
+15:02:34 [INFO] player open movie.
+15:02:35 [INFO] player play .
+15:02:36 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:02:37 [INFO] player open movie.
+15:02:37 [INFO] player play .
+15:02:38 [INFO] select media = etc/media/video/餐桌投影.avi
+15:02:39 [INFO] player open movie.
+15:02:39 [INFO] player play .
+15:02:40 [INFO] select media = etc/media/video/360度环幕.avi
+15:02:40 [INFO] player open movie.
+15:02:41 [INFO] player play .
+15:02:43 [INFO] select media = etc/media/video/地幕.avi
+15:02:43 [INFO] player open movie.
+15:02:43 [INFO] player play .
+15:02:44 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:02:45 [INFO] player open movie.
+15:02:45 [INFO] player play .
+15:02:46 [INFO] select media = etc/media/video/餐桌投影.avi
+15:02:46 [INFO] player open movie.
+15:02:46 [INFO] player play .
+15:02:55 [INFO] select media = etc/media/video/餐桌投影.avi
+15:02:55 [INFO] player open movie.
+15:02:56 [INFO] player play .
+15:03:06 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:03:06 [INFO] player open movie.
+15:03:08 [INFO] player play .
+15:03:51 [INFO] show tools.
+15:03:55 [INFO] end opengl .
+15:03:56 [INFO] Tray uninstall success.
+15:03:56 [INFO] ------------logging end------------
+15:03:56 [INFO]         exit fusion system.        
+15:03:56 [INFO] -----------------------------------
+15:03:56 [INFO] 
+
+
+15:03:56 [INFO] Tray uninstall success.
+15:05:58 [INFO] -----------------------------------
+15:05:58 [INFO]            Fusion System.          
+15:05:58 [INFO]           vision (_v1.3.1)     
+15:05:58 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:05:58 [INFO]           www.ytsmart.net          
+15:05:58 [INFO] -----------logging begin-----------
+15:05:58 [INFO] start minimize = 2
+15:05:58 [INFO] append windows start = 2
+15:05:58 [INFO] Tray install success.
+15:06:00 [INFO] load data.
+15:06:00 [INFO] select color device id = 0
+15:06:00 [INFO] select image local = :/image/symbol.png
+15:06:01 [INFO] select blend device id = 0
+15:06:01 [INFO] begin opengl .
+15:06:01 [INFO] load data success.
+15:06:01 [INFO] hide tools.
+15:06:01 [INFO] opengl initialize.
+15:06:01 [INFO] opengl load data.
+15:06:01 [INFO] opengl handle image load success.
+15:06:01 [INFO] opengl render load success.
+15:06:01 [INFO] opengl coord data load success.
+15:06:01 [INFO] opengl blend data load success.
+15:06:01 [INFO] opengl load data success.
+15:06:04 [INFO] show tools.
+15:06:07 [INFO] rendering mode = Media | Blend
+15:06:10 [INFO] select media = etc/media/video/地幕.avi
+15:06:10 [INFO] player open movie.
+15:06:10 [INFO] player play .
+15:06:13 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:06:14 [INFO] player open movie.
+15:06:14 [INFO] player play .
+15:06:17 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:17 [INFO] player open movie.
+15:06:17 [INFO] player play .
+15:06:18 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:06:19 [INFO] player open movie.
+15:06:19 [INFO] player play .
+15:06:19 [INFO] select media = etc/media/video/地幕.avi
+15:06:19 [INFO] player open movie.
+15:06:20 [INFO] player play .
+15:06:20 [INFO] select media = etc/media/video/360度环幕.avi
+15:06:21 [INFO] player open movie.
+15:06:21 [INFO] player play .
+15:06:23 [INFO] select media = etc/media/video/地幕.avi
+15:06:24 [INFO] player open movie.
+15:06:24 [INFO] player play .
+15:06:26 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:06:26 [INFO] player open movie.
+15:06:26 [INFO] player play .
+15:06:27 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:27 [INFO] player open movie.
+15:06:27 [INFO] player play .
+15:06:29 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:06:29 [INFO] player open movie.
+15:06:29 [INFO] player play .
+15:06:30 [INFO] player stop .
+15:06:31 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:31 [INFO] player open movie.
+15:06:31 [INFO] player play .
+15:06:32 [INFO] player stop .
+15:06:33 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:33 [INFO] player open movie.
+15:06:33 [INFO] player play .
+15:06:36 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:36 [INFO] player open movie.
+15:06:36 [INFO] player play .
+15:06:37 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:37 [INFO] player open movie.
+15:06:37 [INFO] player play .
+15:06:38 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:06:38 [INFO] player open movie.
+15:06:38 [INFO] player play .
+15:06:41 [INFO] select media = etc/media/video/地幕.avi
+15:06:41 [INFO] player open movie.
+15:06:41 [INFO] player play .
+15:06:43 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:06:43 [INFO] player open movie.
+15:06:44 [INFO] player play .
+15:06:44 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:44 [INFO] player open movie.
+15:06:44 [INFO] player play .
+15:06:46 [INFO] select media = etc/media/video/360度环幕.avi
+15:06:46 [INFO] player open movie.
+15:06:46 [INFO] player play .
+15:06:48 [INFO] select media = etc/media/video/360度环幕.avi
+15:06:49 [INFO] player open movie.
+15:06:49 [INFO] player play .
+15:06:50 [INFO] select media = etc/media/video/地幕.avi
+15:06:50 [INFO] player open movie.
+15:06:50 [INFO] player play .
+15:06:56 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:06:56 [INFO] player open movie.
+15:06:57 [INFO] player play .
+15:06:58 [INFO] select media = etc/media/video/餐桌投影.avi
+15:06:58 [INFO] player open movie.
+15:06:58 [INFO] player play .
+15:06:59 [INFO] select media = etc/media/video/360度环幕.avi
+15:06:59 [INFO] player open movie.
+15:07:00 [INFO] player play .
+15:13:02 [INFO] -----------------------------------
+15:13:02 [INFO]            Fusion System.          
+15:13:02 [INFO]           vision (_v1.3.1)     
+15:13:02 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:13:02 [INFO]           www.ytsmart.net          
+15:13:02 [INFO] -----------logging begin-----------
+15:13:02 [INFO] start minimize = 2
+15:13:02 [INFO] append windows start = 2
+15:13:02 [INFO] Tray install success.
+15:13:04 [INFO] load data.
+15:13:04 [INFO] select color device id = 0
+15:13:04 [INFO] select image local = :/image/symbol.png
+15:13:04 [INFO] select blend device id = 0
+15:13:05 [INFO] begin opengl .
+15:13:05 [INFO] load data success.
+15:13:05 [INFO] hide tools.
+15:13:05 [INFO] opengl initialize.
+15:13:05 [INFO] opengl load data.
+15:13:05 [INFO] opengl handle image load success.
+15:13:05 [INFO] opengl render load success.
+15:13:05 [INFO] opengl coord data load success.
+15:13:05 [INFO] opengl blend data load success.
+15:13:05 [INFO] opengl load data success.
+15:13:13 [INFO] show tools.
+15:13:15 [INFO] rendering mode = Media | Blend
+15:13:20 [INFO] select media = etc/media/video/地幕.avi
+15:13:20 [INFO] player open movie.
+15:13:20 [INFO] player play .
+15:13:27 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:13:27 [INFO] player open movie.
+15:13:28 [INFO] player play .
+15:13:28 [INFO] select media = etc/media/video/餐桌投影.avi
+15:13:29 [INFO] player open movie.
+15:13:29 [INFO] player play .
+15:13:30 [INFO] select media = etc/media/video/360度环幕.avi
+15:13:30 [INFO] player open movie.
+15:13:30 [INFO] player play .
+15:13:31 [INFO] select media = etc/media/video/地幕.avi
+15:13:32 [INFO] player open movie.
+15:13:32 [INFO] player play .
+15:13:33 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:13:33 [INFO] player open movie.
+15:13:33 [INFO] player play .
+15:13:34 [INFO] select media = etc/media/video/餐桌投影.avi
+15:13:34 [INFO] player open movie.
+15:13:34 [INFO] player play .
+15:13:36 [INFO] select media = etc/media/video/360度环幕.avi
+15:13:36 [INFO] player open movie.
+15:13:36 [INFO] player play .
+15:13:41 [INFO] show tools.
+15:13:45 [INFO] end opengl .
+15:13:45 [INFO] Tray uninstall success.
+15:13:45 [INFO] ------------logging end------------
+15:13:45 [INFO]         exit fusion system.        
+15:13:45 [INFO] -----------------------------------
+15:13:45 [INFO] 
+
+
+15:13:45 [INFO] Tray uninstall success.
+15:17:01 [INFO] -----------------------------------
+15:17:01 [INFO]            Fusion System.          
+15:17:01 [INFO]           vision (_v1.3.1)     
+15:17:01 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:17:01 [INFO]           www.ytsmart.net          
+15:17:01 [INFO] -----------logging begin-----------
+15:17:01 [INFO] start minimize = 2
+15:17:01 [INFO] append windows start = 2
+15:17:01 [INFO] Tray install success.
+15:17:03 [INFO] load data.
+15:17:03 [INFO] select color device id = 0
+15:17:03 [INFO] select image local = :/image/symbol.png
+15:17:03 [INFO] select blend device id = 0
+15:17:04 [INFO] begin opengl .
+15:17:04 [INFO] load data success.
+15:17:04 [INFO] hide tools.
+15:17:04 [INFO] opengl initialize.
+15:17:04 [INFO] opengl load data.
+15:17:04 [INFO] opengl handle image load success.
+15:17:04 [INFO] opengl render load success.
+15:17:04 [INFO] opengl coord data load success.
+15:17:04 [INFO] opengl blend data load success.
+15:17:04 [INFO] opengl load data success.
+15:17:05 [INFO] show tools.
+15:17:10 [INFO] rendering mode = Media | Blend
+15:17:16 [INFO] select media = etc/media/video/地幕.avi
+15:17:16 [INFO] player open movie.
+15:17:16 [INFO] player play .
+15:17:21 [INFO] select media = etc/media/video/桌面圣诞24人.avi
+15:17:21 [INFO] player open movie.
+15:17:21 [INFO] player play .
+15:17:23 [INFO] select media = etc/media/video/餐桌投影.avi
+15:17:23 [INFO] player open movie.
+15:17:23 [INFO] player play .
+15:17:30 [INFO] player stop .
+15:17:32 [INFO] player play .
+15:19:12 [INFO] select media = etc/media/video/地幕.avi
+15:19:13 [INFO] player open movie.
+15:19:13 [INFO] player play .
+15:19:16 [INFO] end opengl .
+15:19:17 [INFO] Tray uninstall success.
+15:19:17 [INFO] ------------logging end------------
+15:19:17 [INFO]         exit fusion system.        
+15:19:17 [INFO] -----------------------------------
+15:19:17 [INFO] 
+
+
+15:19:17 [INFO] Tray uninstall success.
+15:21:03 [INFO] -----------------------------------
+15:21:03 [INFO]            Fusion System.          
+15:21:03 [INFO]           vision (_v1.3.1)     
+15:21:03 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:21:03 [INFO]           www.ytsmart.net          
+15:21:03 [INFO] -----------logging begin-----------
+15:21:03 [INFO] start minimize = 2
+15:21:03 [INFO] append windows start = 2
+15:21:03 [INFO] Tray install success.
+15:21:05 [INFO] load data.
+15:21:05 [INFO] select color device id = 0
+15:21:05 [INFO] select image local = :/image/symbol.png
+15:21:05 [INFO] select blend device id = 0
+15:21:06 [INFO] begin opengl .
+15:21:06 [INFO] load data success.
+15:21:06 [INFO] hide tools.
+15:21:06 [INFO] opengl initialize.
+15:21:06 [INFO] opengl load data.
+15:21:06 [INFO] opengl handle image load success.
+15:21:06 [INFO] opengl render load success.
+15:21:06 [INFO] opengl coord data load success.
+15:21:06 [INFO] opengl blend data load success.
+15:21:06 [INFO] opengl load data success.
+15:21:07 [INFO] show tools.
+15:21:11 [INFO] show tools.
+15:21:13 [INFO] rendering mode = Media | Blend
+15:21:18 [INFO] select media = etc/media/video/2.avi
+15:21:19 [INFO] player open movie.
+15:21:19 [INFO] player play .
+15:21:21 [INFO] select media = etc/media/video/3.avi
+15:21:21 [INFO] player open movie.
+15:21:21 [INFO] player play .
+15:21:22 [INFO] select media = etc/media/video/4.avi
+15:21:22 [INFO] player open movie.
+15:21:23 [INFO] player play .
+15:22:00 [INFO] show tools.
+15:22:03 [INFO] end opengl .
+15:22:04 [INFO] Tray uninstall success.
+15:22:04 [INFO] ------------logging end------------
+15:22:04 [INFO]         exit fusion system.        
+15:22:04 [INFO] -----------------------------------
+15:22:04 [INFO] 
+
+
+15:22:04 [INFO] Tray uninstall success.
+15:25:34 [INFO] -----------------------------------
+15:25:34 [INFO]            Fusion System.          
+15:25:34 [INFO]           vision (_v1.3.1)     
+15:25:34 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:25:34 [INFO]           www.ytsmart.net          
+15:25:34 [INFO] -----------logging begin-----------
+15:25:34 [INFO] start minimize = 2
+15:25:34 [INFO] append windows start = 2
+15:25:34 [INFO] Tray install success.
+15:25:36 [ERROR] Validation license error!
+15:25:50 [INFO] hide tools.
+15:25:56 [INFO] Tray uninstall success.
+19:14:17 [INFO] -----------------------------------
+19:14:17 [INFO]            Fusion System.          
+19:14:17 [INFO]           vision (_v1.3.1)     
+19:14:17 [INFO] Shenzhen YanTu Technology Co., Ltd.
+19:14:17 [INFO]           www.ytsmart.net          
+19:14:17 [INFO] -----------logging begin-----------
+19:14:17 [INFO] start minimize = 2
+19:14:17 [INFO] append windows start = 2
+19:14:17 [INFO] Tray install success.
+19:14:19 [ERROR] Validation license error!
+19:14:21 [INFO] hide tools.
+19:14:25 [INFO] Tray uninstall success.
+19:14:25 [INFO] ------------logging end------------
+19:14:25 [INFO]         exit fusion system.        
+19:14:25 [INFO] -----------------------------------
+19:14:25 [INFO] 
+
+
+19:14:57 [INFO] -----------------------------------
+19:14:57 [INFO]            Fusion System.          
+19:14:57 [INFO]           vision (_v1.3.1)     
+19:14:57 [INFO] Shenzhen YanTu Technology Co., Ltd.
+19:14:57 [INFO]           www.ytsmart.net          
+19:14:57 [INFO] -----------logging begin-----------
+19:14:57 [INFO] start minimize = 2
+19:14:57 [INFO] append windows start = 2
+19:14:57 [INFO] Tray install success.
+19:14:59 [INFO] load data.
+19:14:59 [INFO] select image local = :/image/symbol.png
+19:14:59 [INFO] load data success.
+19:14:59 [INFO] hide tools.
+19:15:03 [INFO] show tools.
+19:15:03 [INFO] Tray trigger.
+19:15:04 [INFO] show tools.
+19:15:04 [INFO] Tray trigger.
+19:15:06 [INFO] show tools.
+19:15:06 [INFO] Tray trigger.
+19:15:07 [INFO] show tools.
+19:15:07 [INFO] Tray trigger.
+19:15:07 [INFO] show tools.
+19:15:07 [INFO] Tray trigger.
+19:15:10 [INFO] start adjust data:
+19:15:10 [INFO]     computer layout(v:h) = 1:1
+19:15:10 [INFO]     computer index(v:h) = 0:0
+19:15:10 [INFO]     projection layout(v:h) = 1:2
+19:15:10 [INFO]     geometry control(v:h) = 2:2
+19:15:10 [INFO]     geometry precision(v:h) = 4:4
+19:15:10 [INFO]     geometry strategy = Auto
+19:15:10 [INFO]     device resolution = 2K (2048×1080)
+19:15:11 [INFO] begin opengl .
+19:15:11 [INFO] select blend device id = 0
+19:15:11 [INFO] opengl initialize.
+19:15:33 [INFO] rendering mode = Desktop | Blend
+19:15:40 [INFO] end opengl .
+19:15:41 [INFO] Tray uninstall success.
+19:15:41 [INFO] ------------logging end------------
+19:15:41 [INFO]         exit fusion system.        
+19:15:41 [INFO] -----------------------------------
+19:15:41 [INFO] 
+
+
+19:15:41 [INFO] Tray uninstall success.
+14:06:49 [INFO] -----------------------------------
+14:06:49 [INFO]            Fusion System.          
+14:06:49 [INFO]           vision (_v1.3.1)     
+14:06:49 [INFO] Shenzhen YanTu Technology Co., Ltd.
+14:06:49 [INFO]           www.ytsmart.net          
+14:06:49 [INFO] -----------logging begin-----------
+14:06:50 [INFO] start minimize = 2
+14:06:50 [INFO] append windows start = 2
+14:06:50 [INFO] Tray install success.
+14:06:52 [INFO] load data.
+14:06:52 [INFO] select image local = :/image/symbol.png
+14:06:52 [INFO] load data success.
+14:06:52 [INFO] hide tools.
+14:06:59 [INFO] show tools.
+14:06:59 [INFO] Tray trigger.
+14:06:59 [INFO] hide tools.
+14:06:59 [INFO] Tray double click.
+14:07:00 [INFO] show tools.
+14:07:00 [INFO] Tray trigger.
+14:07:01 [INFO] start adjust data:
+14:07:01 [INFO]     computer layout(v:h) = 1:1
+14:07:02 [INFO]     computer index(v:h) = 0:0
+14:07:02 [INFO]     projection layout(v:h) = 1:2
+14:07:02 [INFO]     geometry control(v:h) = 2:2
+14:07:02 [INFO]     geometry precision(v:h) = 4:4
+14:07:02 [INFO]     geometry strategy = Auto
+14:07:02 [INFO]     device resolution = 2K (2048×1080)
+14:07:02 [INFO] begin opengl .
+14:07:03 [INFO] select blend device id = 0
+14:07:03 [INFO] opengl initialize.
+14:07:14 [INFO] end opengl .
+14:07:14 [INFO] Tray uninstall success.
+14:07:14 [INFO] ------------logging end------------
+14:07:14 [INFO]         exit fusion system.        
+14:07:14 [INFO] -----------------------------------
+14:07:14 [INFO] 
+
+
+14:07:14 [INFO] Tray uninstall success.
+20:51:47 [INFO] -----------------------------------
+20:51:47 [INFO]            Fusion System.          
+20:51:47 [INFO]           vision (_v1.3.1)     
+20:51:47 [INFO] Shenzhen YanTu Technology Co., Ltd.
+20:51:47 [INFO]           www.ytsmart.net          
+20:51:47 [INFO] -----------logging begin-----------
+20:51:48 [INFO] start minimize = 2
+20:51:48 [INFO] append windows start = 2
+20:51:48 [INFO] Tray install success.
+20:51:50 [INFO] load data.
+20:51:50 [INFO] select image local = :/image/symbol.png
+20:51:50 [INFO] load data success.
+20:51:50 [INFO] hide tools.
+20:51:53 [INFO] show tools.
+20:51:53 [INFO] Tray trigger.
+20:51:55 [INFO] start adjust data:
+20:51:55 [INFO]     computer layout(v:h) = 1:1
+20:51:55 [INFO]     computer index(v:h) = 0:0
+20:51:55 [INFO]     projection layout(v:h) = 1:2
+20:51:55 [INFO]     geometry control(v:h) = 2:2
+20:51:55 [INFO]     geometry precision(v:h) = 4:4
+20:51:55 [INFO]     geometry strategy = Auto
+20:51:55 [INFO]     device resolution = 2K (2048×1080)
+20:51:55 [INFO] begin opengl .
+20:51:55 [INFO] select blend device id = 0
+20:51:55 [INFO] opengl initialize.
+20:52:14 [INFO] end opengl .
+20:52:14 [INFO] Tray uninstall success.
+20:52:14 [INFO] ------------logging end------------
+20:52:14 [INFO]         exit fusion system.        
+20:52:14 [INFO] -----------------------------------
+20:52:14 [INFO] 
+
+
+20:52:14 [INFO] Tray uninstall success.
+20:54:33 [INFO] -----------------------------------
+20:54:33 [INFO]            Fusion System.          
+20:54:33 [INFO]           vision (_v1.3.1)     
+20:54:34 [INFO] Shenzhen YanTu Technology Co., Ltd.
+20:54:34 [INFO]           www.ytsmart.net          
+20:54:34 [INFO] -----------logging begin-----------
+20:54:34 [INFO] start minimize = 2
+20:54:34 [INFO] append windows start = 2
+20:54:34 [INFO] Tray install success.
+20:54:36 [INFO] load data.
+20:54:36 [INFO] select image local = :/image/symbol.png
+20:54:36 [INFO] load data success.
+20:54:36 [INFO] hide tools.
+20:54:40 [INFO] show tools.
+20:54:40 [INFO] Tray trigger.
+20:54:42 [INFO] start adjust data:
+20:54:42 [INFO]     computer layout(v:h) = 1:1
+20:54:42 [INFO]     computer index(v:h) = 0:0
+20:54:42 [INFO]     projection layout(v:h) = 1:2
+20:54:42 [INFO]     geometry control(v:h) = 2:2
+20:54:42 [INFO]     geometry precision(v:h) = 4:4
+20:54:42 [INFO]     geometry strategy = Auto
+20:54:42 [INFO]     device resolution = 2K (2048×1080)
+20:54:42 [INFO] begin opengl .
+20:54:43 [INFO] select blend device id = 0
+20:54:43 [INFO] opengl initialize.
+20:54:52 [INFO] warp cursor = 2
+20:54:58 [INFO] save data success.
+20:55:02 [INFO] end opengl .
+20:55:03 [INFO] Tray uninstall success.
+20:55:03 [INFO] ------------logging end------------
+20:55:03 [INFO]         exit fusion system.        
+20:55:03 [INFO] -----------------------------------
+20:55:03 [INFO] 
+
+
+20:55:03 [INFO] Tray uninstall success.
+20:55:09 [INFO] -----------------------------------
+20:55:09 [INFO]            Fusion System.          
+20:55:09 [INFO]           vision (_v1.3.1)     
+20:55:09 [INFO] Shenzhen YanTu Technology Co., Ltd.
+20:55:09 [INFO]           www.ytsmart.net          
+20:55:09 [INFO] -----------logging begin-----------
+20:55:09 [INFO] warp cursor = 2
+20:55:09 [INFO] start minimize = 2
+20:55:09 [INFO] append windows start = 2
+20:55:09 [INFO] Tray install success.
+20:55:11 [INFO] load data.
+20:55:11 [INFO] select color device id = 0
+20:55:11 [INFO] select image local = :/image/symbol.png
+20:55:11 [INFO] select blend device id = 0
+20:55:12 [INFO] begin opengl .
+20:55:12 [INFO] load data success.
+20:55:12 [INFO] hide tools.
+20:55:12 [INFO] opengl initialize.
+20:55:13 [INFO] opengl load data.
+20:55:13 [INFO] opengl handle image load success.
+20:55:13 [INFO] opengl render load success.
+20:55:13 [INFO] opengl coord data load success.
+20:55:13 [INFO] opengl blend data load success.
+20:55:13 [INFO] opengl load data success.
+20:55:35 [INFO] end opengl .
+20:55:36 [INFO] Tray uninstall success.
+20:55:36 [INFO] ------------logging end------------
+20:55:36 [INFO]         exit fusion system.        
+20:55:36 [INFO] -----------------------------------
+20:55:36 [INFO] 
+
+
+20:56:38 [INFO] -----------------------------------
+20:56:38 [INFO]            Fusion System.          
+20:56:38 [INFO]           vision (_v1.3.1)     
+20:56:38 [INFO] Shenzhen YanTu Technology Co., Ltd.
+20:56:38 [INFO]           www.ytsmart.net          
+20:56:38 [INFO] -----------logging begin-----------
+20:56:38 [INFO] warp cursor = 2
+20:56:38 [INFO] start minimize = 2
+20:56:38 [INFO] append windows start = 2
+20:56:38 [INFO] Tray install success.
+20:56:40 [INFO] load data.
+20:56:40 [INFO] select color device id = 0
+20:56:40 [INFO] select image local = :/image/symbol.png
+20:56:40 [INFO] select blend device id = 0
+20:56:41 [INFO] begin opengl .
+20:56:41 [INFO] load data success.
+20:56:41 [INFO] hide tools.
+20:56:41 [INFO] opengl initialize.
+20:56:41 [INFO] opengl load data.
+20:56:41 [INFO] opengl handle image load success.
+20:56:41 [INFO] opengl render load success.
+20:56:41 [INFO] opengl coord data load success.
+20:56:41 [INFO] opengl blend data load success.
+20:56:41 [INFO] opengl load data success.
+20:56:43 [INFO] show tools.
+20:56:49 [INFO] show tools.
+20:56:57 [INFO] end opengl .
+20:56:58 [INFO] Tray uninstall success.
+20:56:58 [INFO] ------------logging end------------
+20:56:58 [INFO]         exit fusion system.        
+20:56:58 [INFO] -----------------------------------
+20:56:58 [INFO] 
+
+
+20:56:58 [INFO] Tray uninstall success.
+20:58:49 [INFO] -----------------------------------
+20:58:49 [INFO]            Fusion System.          
+20:58:49 [INFO]           vision (_v1.3.1)     
+20:58:49 [INFO] Shenzhen YanTu Technology Co., Ltd.
+20:58:49 [INFO]           www.ytsmart.net          
+20:58:49 [INFO] -----------logging begin-----------
+20:58:49 [INFO] warp cursor = 2
+20:58:49 [INFO] start minimize = 2
+20:58:49 [INFO] append windows start = 2
+20:58:49 [INFO] Tray install success.
+20:58:51 [INFO] load data.
+20:58:51 [INFO] select color device id = 0
+20:58:51 [INFO] select image local = :/image/symbol.png
+20:58:51 [INFO] select blend device id = 0
+20:58:52 [INFO] begin opengl .
+20:58:52 [INFO] load data success.
+20:58:52 [INFO] hide tools.
+20:58:52 [INFO] opengl initialize.
+20:58:52 [INFO] opengl load data.
+20:58:52 [INFO] opengl handle image load success.
+20:58:53 [INFO] opengl render load success.
+20:58:53 [INFO] opengl coord data load success.
+20:58:53 [INFO] opengl blend data load success.
+20:58:53 [INFO] opengl load data success.
+20:58:56 [INFO] show tools.
+20:59:02 [INFO] end opengl .
+20:59:03 [INFO] Tray uninstall success.
+20:59:03 [INFO] ------------logging end------------
+20:59:03 [INFO]         exit fusion system.        
+20:59:03 [INFO] -----------------------------------
+20:59:03 [INFO] 
+
+
+20:59:03 [INFO] Tray uninstall success.
+20:59:09 [INFO] -----------------------------------
+20:59:09 [INFO]            Fusion System.          
+20:59:09 [INFO]           vision (_v1.3.1)     
+20:59:09 [INFO] Shenzhen YanTu Technology Co., Ltd.
+20:59:09 [INFO]           www.ytsmart.net          
+20:59:09 [INFO] -----------logging begin-----------
+20:59:09 [INFO] warp cursor = 2
+20:59:09 [INFO] start minimize = 2
+20:59:09 [INFO] append windows start = 2
+20:59:09 [INFO] Tray install success.
+20:59:11 [INFO] load data.
+20:59:11 [INFO] select color device id = 0
+20:59:11 [INFO] select image local = :/image/symbol.png
+20:59:11 [INFO] select blend device id = 0
+20:59:12 [INFO] begin opengl .
+20:59:12 [INFO] load data success.
+20:59:12 [INFO] hide tools.
+20:59:12 [INFO] opengl initialize.
+20:59:12 [INFO] opengl load data.
+20:59:12 [INFO] opengl handle image load success.
+20:59:12 [INFO] opengl render load success.
+20:59:12 [INFO] opengl coord data load success.
+20:59:12 [INFO] opengl blend data load success.
+20:59:12 [INFO] opengl load data success.
+20:59:15 [INFO] show tools.
+20:59:22 [INFO] end opengl .
+20:59:23 [INFO] Tray uninstall success.
+20:59:23 [INFO] ------------logging end------------
+20:59:23 [INFO]         exit fusion system.        
+20:59:23 [INFO] -----------------------------------
+20:59:23 [INFO] 
+
+
+20:59:23 [INFO] Tray uninstall success.
+11:05:00 [INFO] -----------------------------------
+11:05:00 [INFO]            Fusion System.          
+11:05:00 [INFO]           vision (_v1.3.1)     
+11:05:00 [INFO] Shenzhen YanTu Technology Co., Ltd.
+11:05:00 [INFO]           www.ytsmart.net          
+11:05:00 [INFO] -----------logging begin-----------
+11:05:00 [INFO] warp cursor = 2
+11:05:00 [INFO] start minimize = 2
+11:05:00 [INFO] append windows start = 2
+11:05:00 [INFO] Tray install success.
+11:05:02 [ERROR] Validation license error!
+11:05:03 [INFO] hide tools.
+11:05:20 [INFO] Tray uninstall success.
+11:05:20 [INFO] ------------logging end------------
+11:05:20 [INFO]         exit fusion system.        
+11:05:20 [INFO] -----------------------------------
+11:05:20 [INFO] 
+
+
+15:30:05 [INFO] -----------------------------------
+15:30:05 [INFO]            Fusion System.          
+15:30:05 [INFO]           vision (_v1.3.1)     
+15:30:05 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:30:05 [INFO]           www.ytsmart.net          
+15:30:05 [INFO] -----------logging begin-----------
+15:30:06 [INFO] warp cursor = 2
+15:30:06 [INFO] start minimize = 2
+15:30:06 [INFO] append windows start = 2
+15:30:07 [INFO] Tray install success.
+15:30:08 [INFO] load data.
+15:30:08 [INFO] select color device id = 0
+15:30:08 [INFO] select image local = :/image/symbol.png
+15:30:08 [INFO] select blend device id = 0
+15:30:08 [INFO] begin opengl .
+15:30:09 [INFO] load data success.
+15:30:09 [INFO] hide tools.
+15:31:27 [INFO] -----------------------------------
+15:31:27 [INFO]            Fusion System.          
+15:31:27 [INFO]           vision (_v1.3.1)     
+15:31:27 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:31:27 [INFO]           www.ytsmart.net          
+15:31:27 [INFO] -----------logging begin-----------
+15:31:29 [INFO] Tray install success.
+15:31:37 [INFO] start adjust data:
+15:31:37 [INFO]     computer layout(v:h) = 1:1
+15:31:37 [INFO]     computer index(v:h) = 0:0
+15:31:37 [INFO]     projection layout(v:h) = 1:2
+15:31:37 [INFO]     geometry control(v:h) = 2:2
+15:31:37 [INFO]     geometry precision(v:h) = 4:4
+15:31:37 [INFO]     geometry strategy = Auto
+15:31:37 [INFO]     device resolution = 2K (2048×1080)
+15:31:38 [INFO] begin opengl .
+15:31:38 [INFO] opengl initialize.
+15:31:38 [INFO] select blend device id = 0
+15:31:43 [INFO] rendering mode = Image | Blend
+15:31:44 [INFO] rendering mode = Media | Blend
+15:32:07 [INFO] end opengl .
+15:32:08 [INFO] Tray uninstall success.
+15:32:08 [INFO] ------------logging end------------
+15:32:08 [INFO]         exit fusion system.        
+15:32:08 [INFO] -----------------------------------
+15:32:08 [INFO] 
+
+
+15:32:08 [INFO] Tray uninstall success.
+15:34:17 [INFO] -----------------------------------
+15:34:17 [INFO]            Fusion System.          
+15:34:18 [INFO]           vision (_v1.3.1)     
+15:34:18 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:34:18 [INFO]           www.ytsmart.net          
+15:34:18 [INFO] -----------logging begin-----------
+15:34:19 [INFO] Tray install success.
+15:34:21 [INFO] start adjust data:
+15:34:21 [INFO]     computer layout(v:h) = 1:1
+15:34:21 [INFO]     computer index(v:h) = 0:0
+15:34:21 [INFO]     projection layout(v:h) = 1:2
+15:34:21 [INFO]     geometry control(v:h) = 2:2
+15:34:21 [INFO]     geometry precision(v:h) = 4:4
+15:34:21 [INFO]     geometry strategy = Auto
+15:34:21 [INFO]     device resolution = 2K (2048×1080)
+15:34:21 [INFO] begin opengl .
+15:34:21 [INFO] opengl initialize.
+15:34:22 [INFO] select blend device id = 0
+15:34:31 [INFO] rendering mode = Media | Blend
+15:34:53 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/release/new.ytm
+15:35:04 [INFO] player open movie.
+15:35:19 [INFO] player open movie.
+15:35:19 [INFO] player play .
+15:35:34 [INFO] rendering mode = Grid | Blend
+15:35:35 [INFO] rendering mode = Image | Blend
+15:35:36 [INFO] rendering mode = Media | Blend
+15:36:01 [INFO] player open movie.
+15:36:01 [INFO] player play .
+15:36:31 [INFO] end opengl .
+15:36:32 [INFO] Tray uninstall success.
+15:36:32 [INFO] ------------logging end------------
+15:36:32 [INFO]         exit fusion system.        
+15:36:32 [INFO] -----------------------------------
+15:36:32 [INFO] 
+
+
+15:36:32 [INFO] Tray uninstall success.
+15:36:54 [INFO] -----------------------------------
+15:36:54 [INFO]            Fusion System.          
+15:36:54 [INFO]           vision (_v1.3.1)     
+15:36:54 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:36:54 [INFO]           www.ytsmart.net          
+15:36:54 [INFO] -----------logging begin-----------
+15:37:02 [INFO] Tray install success.
+15:37:12 [INFO] Tray uninstall success.
+15:37:12 [INFO] ------------logging end------------
+15:37:12 [INFO]         exit fusion system.        
+15:37:12 [INFO] -----------------------------------
+15:37:12 [INFO] 
+
+
+15:37:12 [INFO] Tray uninstall success.
+15:37:15 [INFO] -----------------------------------
+15:37:15 [INFO]            Fusion System.          
+15:37:15 [INFO]           vision (_v1.3.1)     
+15:37:15 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:37:15 [INFO]           www.ytsmart.net          
+15:37:15 [INFO] -----------logging begin-----------
+15:37:17 [INFO] Tray install success.
+15:37:21 [INFO] start adjust data:
+15:37:21 [INFO]     computer layout(v:h) = 1:1
+15:37:21 [INFO]     computer index(v:h) = 0:0
+15:37:21 [INFO]     projection layout(v:h) = 1:2
+15:37:21 [INFO]     geometry control(v:h) = 2:2
+15:37:21 [INFO]     geometry precision(v:h) = 4:4
+15:37:21 [INFO]     geometry strategy = Auto
+15:37:21 [INFO]     device resolution = 2K (2048×1080)
+15:37:22 [INFO] begin opengl .
+15:37:22 [INFO] opengl initialize.
+15:37:22 [INFO] select blend device id = 0
+15:37:25 [INFO] rendering mode = Media | Blend
+15:37:34 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/new.ytm
+15:38:17 [INFO] -----------------------------------
+15:38:17 [INFO]            Fusion System.          
+15:38:17 [INFO]           vision (_v1.3.1)     
+15:38:17 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:38:17 [INFO]           www.ytsmart.net          
+15:38:17 [INFO] -----------logging begin-----------
+15:38:19 [INFO] Tray install success.
+15:38:20 [INFO] start adjust data:
+15:38:20 [INFO]     computer layout(v:h) = 1:1
+15:38:20 [INFO]     computer index(v:h) = 0:0
+15:38:20 [INFO]     projection layout(v:h) = 1:2
+15:38:20 [INFO]     geometry control(v:h) = 2:2
+15:38:20 [INFO]     geometry precision(v:h) = 4:4
+15:38:20 [INFO]     geometry strategy = Auto
+15:38:20 [INFO]     device resolution = 2K (2048×1080)
+15:38:21 [INFO] begin opengl .
+15:38:21 [INFO] opengl initialize.
+15:38:21 [INFO] select blend device id = 0
+15:38:24 [INFO] rendering mode = Media | Blend
+15:38:32 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/new.ytm
+15:41:13 [INFO] -----------------------------------
+15:41:13 [INFO]            Fusion System.          
+15:41:13 [INFO]           vision (_v1.3.1)     
+15:41:13 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:41:13 [INFO]           www.ytsmart.net          
+15:41:13 [INFO] -----------logging begin-----------
+15:41:23 [INFO] Tray install success.
+15:41:27 [INFO] start adjust data:
+15:41:27 [INFO]     computer layout(v:h) = 1:1
+15:41:27 [INFO]     computer index(v:h) = 0:0
+15:41:27 [INFO]     projection layout(v:h) = 1:2
+15:41:27 [INFO]     geometry control(v:h) = 2:2
+15:41:27 [INFO]     geometry precision(v:h) = 4:4
+15:41:27 [INFO]     geometry strategy = Auto
+15:41:27 [INFO]     device resolution = 2K (2048×1080)
+15:41:27 [INFO] begin opengl .
+15:41:29 [INFO] opengl initialize.
+15:41:29 [INFO] select blend device id = 0
+15:41:31 [INFO] rendering mode = Media | Blend
+15:41:43 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/new.ytm
+15:42:46 [INFO] -----------------------------------
+15:42:46 [INFO]            Fusion System.          
+15:42:46 [INFO]           vision (_v1.3.1)     
+15:42:46 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:42:46 [INFO]           www.ytsmart.net          
+15:42:46 [INFO] -----------logging begin-----------
+15:42:54 [INFO] Tray install success.
+15:43:01 [INFO] start adjust data:
+15:43:01 [INFO]     computer layout(v:h) = 1:1
+15:43:01 [INFO]     computer index(v:h) = 0:0
+15:43:01 [INFO]     projection layout(v:h) = 1:2
+15:43:01 [INFO]     geometry control(v:h) = 2:2
+15:43:01 [INFO]     geometry precision(v:h) = 4:4
+15:43:01 [INFO]     geometry strategy = Auto
+15:43:01 [INFO]     device resolution = 2K (2048×1080)
+15:43:01 [INFO] begin opengl .
+15:43:03 [INFO] opengl initialize.
+15:43:03 [INFO] select blend device id = 0
+15:43:11 [INFO] rendering mode = Media | Blend
+15:43:20 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/new.ytm
+15:47:04 [INFO] -----------------------------------
+15:47:04 [INFO]            Fusion System.          
+15:47:04 [INFO]           vision (_v1.3.1)     
+15:47:04 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:47:04 [INFO]           www.ytsmart.net          
+15:47:04 [INFO] -----------logging begin-----------
+15:47:06 [INFO] Tray install success.
+15:47:08 [INFO] start adjust data:
+15:47:08 [INFO]     computer layout(v:h) = 1:1
+15:47:08 [INFO]     computer index(v:h) = 0:0
+15:47:08 [INFO]     projection layout(v:h) = 1:2
+15:47:08 [INFO]     geometry control(v:h) = 2:2
+15:47:08 [INFO]     geometry precision(v:h) = 4:4
+15:47:08 [INFO]     geometry strategy = Auto
+15:47:08 [INFO]     device resolution = 2K (2048×1080)
+15:47:08 [INFO] begin opengl .
+15:47:08 [INFO] opengl initialize.
+15:47:09 [INFO] select blend device id = 0
+15:47:14 [INFO] rendering mode = Media | Blend
+15:47:21 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/new.ytm
+15:47:49 [INFO] -----------------------------------
+15:47:49 [INFO]            Fusion System.          
+15:47:49 [INFO]           vision (_v1.3.1)     
+15:47:49 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:47:49 [INFO]           www.ytsmart.net          
+15:47:49 [INFO] -----------logging begin-----------
+15:47:58 [INFO] Tray install success.
+15:48:11 [INFO] start adjust data:
+15:48:11 [INFO]     computer layout(v:h) = 1:1
+15:48:11 [INFO]     computer index(v:h) = 0:0
+15:48:11 [INFO]     projection layout(v:h) = 1:2
+15:48:11 [INFO]     geometry control(v:h) = 2:2
+15:48:11 [INFO]     geometry precision(v:h) = 4:4
+15:48:11 [INFO]     geometry strategy = Auto
+15:48:11 [INFO]     device resolution = 2K (2048×1080)
+15:48:12 [INFO] begin opengl .
+15:48:13 [INFO] opengl initialize.
+15:48:14 [INFO] select blend device id = 0
+15:48:16 [INFO] rendering mode = Media | Blend
+15:48:26 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/new.ytm
+15:49:22 [INFO] -----------------------------------
+15:49:22 [INFO]            Fusion System.          
+15:49:22 [INFO]           vision (_v1.3.1)     
+15:49:22 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:49:22 [INFO]           www.ytsmart.net          
+15:49:22 [INFO] -----------logging begin-----------
+15:49:31 [INFO] Tray install success.
+15:49:34 [INFO] start adjust data:
+15:49:34 [INFO]     computer layout(v:h) = 1:1
+15:49:34 [INFO]     computer index(v:h) = 0:0
+15:49:34 [INFO]     projection layout(v:h) = 1:2
+15:49:34 [INFO]     geometry control(v:h) = 2:2
+15:49:34 [INFO]     geometry precision(v:h) = 4:4
+15:49:34 [INFO]     geometry strategy = Auto
+15:49:34 [INFO]     device resolution = 2K (2048×1080)
+15:49:34 [INFO] begin opengl .
+15:49:36 [INFO] opengl initialize.
+15:49:36 [INFO] select blend device id = 0
+15:49:38 [INFO] rendering mode = Media | Blend
+15:49:51 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/release/new.ytm
+15:50:27 [INFO] player open movie.
+15:50:38 [INFO] player play .
+15:50:55 [INFO] player pause .
+15:50:56 [INFO] player continue .
+15:51:04 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/release/new.ytm
+15:51:49 [INFO] -----------------------------------
+15:51:49 [INFO]            Fusion System.          
+15:51:49 [INFO]           vision (_v1.3.1)     
+15:51:49 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:51:49 [INFO]           www.ytsmart.net          
+15:51:49 [INFO] -----------logging begin-----------
+15:51:50 [INFO] Tray install success.
+15:51:52 [INFO] start adjust data:
+15:51:52 [INFO]     computer layout(v:h) = 1:1
+15:51:52 [INFO]     computer index(v:h) = 0:0
+15:51:52 [INFO]     projection layout(v:h) = 1:2
+15:51:52 [INFO]     geometry control(v:h) = 2:2
+15:51:52 [INFO]     geometry precision(v:h) = 4:4
+15:51:52 [INFO]     geometry strategy = Auto
+15:51:52 [INFO]     device resolution = 2K (2048×1080)
+15:51:53 [INFO] begin opengl .
+15:51:53 [INFO] opengl initialize.
+15:51:53 [INFO] select blend device id = 0
+15:51:56 [INFO] rendering mode = Media | Blend
+15:52:02 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/release/new.ytm
+15:52:12 [INFO] player open movie.
+15:52:14 [INFO] player play .
+15:52:31 [INFO] player stop .
+15:52:32 [INFO] player play .
+15:52:37 [INFO] end opengl .
+15:52:37 [INFO] Tray uninstall success.
+15:52:37 [INFO] ------------logging end------------
+15:52:37 [INFO]         exit fusion system.        
+15:52:37 [INFO] -----------------------------------
+15:52:37 [INFO] 
+
+
+15:52:37 [INFO] Tray uninstall success.
+15:59:33 [INFO] -----------------------------------
+15:59:33 [INFO]            Fusion System.          
+15:59:33 [INFO]           vision (_v1.3.1)     
+15:59:33 [INFO] Shenzhen YanTu Technology Co., Ltd.
+15:59:33 [INFO]           www.ytsmart.net          
+15:59:33 [INFO] -----------logging begin-----------
+15:59:35 [INFO] Tray install success.
+15:59:44 [INFO] start adjust data:
+15:59:44 [INFO]     computer layout(v:h) = 1:1
+15:59:44 [INFO]     computer index(v:h) = 0:0
+15:59:44 [INFO]     projection layout(v:h) = 1:2
+15:59:44 [INFO]     geometry control(v:h) = 2:2
+15:59:44 [INFO]     geometry precision(v:h) = 4:4
+15:59:44 [INFO]     geometry strategy = Auto
+15:59:44 [INFO]     device resolution = 2K (2048×1080)
+15:59:45 [INFO] begin opengl .
+15:59:45 [INFO] opengl initialize.
+15:59:45 [INFO] select blend device id = 0
+15:59:48 [INFO] rendering mode = Media | Blend
+15:59:57 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/release/new.ytm
+15:59:57 [INFO] player open movie.
+15:59:58 [INFO] player play .
+16:00:02 [INFO] player pause .
+16:00:02 [INFO] player continue .
+16:00:05 [INFO] end opengl .
+16:00:05 [INFO] Tray uninstall success.
+16:00:05 [INFO] ------------logging end------------
+16:00:05 [INFO]         exit fusion system.        
+16:00:05 [INFO] -----------------------------------
+16:00:05 [INFO] 
+
+
+16:00:05 [INFO] Tray uninstall success.
+16:00:24 [INFO] -----------------------------------
+16:00:24 [INFO]            Fusion System.          
+16:00:24 [INFO]           vision (_v1.3.1)     
+16:00:24 [INFO] Shenzhen YanTu Technology Co., Ltd.
+16:00:24 [INFO]           www.ytsmart.net          
+16:00:24 [INFO] -----------logging begin-----------
+16:00:26 [INFO] Tray install success.
+16:00:32 [INFO] start adjust data:
+16:00:32 [INFO]     computer layout(v:h) = 1:1
+16:00:32 [INFO]     computer index(v:h) = 0:0
+16:00:32 [INFO]     projection layout(v:h) = 1:2
+16:00:32 [INFO]     geometry control(v:h) = 2:2
+16:00:32 [INFO]     geometry precision(v:h) = 4:4
+16:00:32 [INFO]     geometry strategy = Auto
+16:00:32 [INFO]     device resolution = 2K (2048×1080)
+16:00:32 [INFO] begin opengl .
+16:00:32 [INFO] opengl initialize.
+16:00:32 [INFO] select blend device id = 0
+16:00:33 [INFO] show tools.
+16:00:34 [INFO] rendering mode = Media | Blend
+16:00:40 [INFO] select media = E:/kunyang-2016/FusionM/build-media2ytformat-MinGW_static-Release/release/new.avi
+16:00:41 [INFO] player open movie.
+16:00:44 [INFO] player play .
+16:00:48 [INFO] end opengl .
+16:00:49 [INFO] Tray uninstall success.
+16:00:49 [INFO] ------------logging end------------
+16:00:49 [INFO]         exit fusion system.        
+16:00:49 [INFO] -----------------------------------
+16:00:49 [INFO] 
+
+
+16:00:49 [INFO] Tray uninstall success.
+07:43:20 [INFO] -----------------------------------
+07:43:20 [INFO]            Fusion System.          
+07:43:20 [INFO]           vision (_v1.3.1)     
+07:43:20 [INFO] Shenzhen YanTu Technology Co., Ltd.
+07:43:20 [INFO]           www.ytsmart.net          
+07:43:20 [INFO] -----------logging begin-----------
+07:43:23 [INFO] Tray install success.
+07:43:28 [INFO] start adjust data:
+07:43:28 [INFO]     computer layout(v:h) = 1:1
+07:43:28 [INFO]     computer index(v:h) = 0:0
+07:43:28 [INFO]     projection layout(v:h) = 1:2
+07:43:28 [INFO]     geometry control(v:h) = 2:2
+07:43:28 [INFO]     geometry precision(v:h) = 4:4
+07:43:28 [INFO]     geometry strategy = Auto
+07:43:28 [INFO]     device resolution = 2K (2048×1080)
+07:43:29 [INFO] begin opengl .
+07:43:34 [INFO] select blend device id = 0
+07:43:34 [INFO] opengl initialize.
+07:43:41 [INFO] end opengl .
+07:43:41 [INFO] Tray uninstall success.
+07:43:41 [INFO] ------------logging end------------
+07:43:41 [INFO]         exit fusion system.        
+07:43:41 [INFO] -----------------------------------
+07:43:41 [INFO] 
+
+
+07:43:41 [INFO] Tray uninstall success.
+07:43:44 [INFO] -----------------------------------
+07:43:44 [INFO]            Fusion System.          
+07:43:44 [INFO]           vision (_v1.3.1)     
+07:43:44 [INFO] Shenzhen YanTu Technology Co., Ltd.
+07:43:44 [INFO]           www.ytsmart.net          
+07:43:44 [INFO] -----------logging begin-----------
+07:43:45 [INFO] Tray install success.
+07:43:46 [INFO] start adjust data:
+07:43:46 [INFO]     computer layout(v:h) = 1:1
+07:43:46 [INFO]     computer index(v:h) = 0:0
+07:43:46 [INFO]     projection layout(v:h) = 1:2
+07:43:46 [INFO]     geometry control(v:h) = 2:2
+07:43:46 [INFO]     geometry precision(v:h) = 4:4
+07:43:46 [INFO]     geometry strategy = Auto
+07:43:46 [INFO]     device resolution = 2K (2048×1080)
+07:43:46 [INFO] begin opengl .
+07:43:50 [INFO] select blend device id = 0
+07:43:50 [INFO] opengl initialize.
+07:43:54 [INFO] end opengl .
+07:43:54 [INFO] Tray uninstall success.
+07:43:54 [INFO] ------------logging end------------
+07:43:54 [INFO]         exit fusion system.        
+07:43:54 [INFO] -----------------------------------
+07:43:54 [INFO] 
+
+
+07:43:54 [INFO] Tray uninstall success.
+07:43:56 [INFO] -----------------------------------
+07:43:56 [INFO]            Fusion System.          
+07:43:56 [INFO]           vision (_v1.3.1)     
+07:43:56 [INFO] Shenzhen YanTu Technology Co., Ltd.
+07:43:56 [INFO]           www.ytsmart.net          
+07:43:56 [INFO] -----------logging begin-----------
+07:43:58 [INFO] Tray install success.
+07:44:00 [INFO] start adjust data:
+07:44:00 [INFO]     computer layout(v:h) = 1:1
+07:44:00 [INFO]     computer index(v:h) = 0:0
+07:44:00 [INFO]     projection layout(v:h) = 1:2
+07:44:00 [INFO]     geometry control(v:h) = 2:2
+07:44:00 [INFO]     geometry precision(v:h) = 4:4
+07:44:00 [INFO]     geometry strategy = Auto
+07:44:00 [INFO]     device resolution = 2K (2048×1080)
+07:44:00 [INFO] begin opengl .
+07:44:03 [INFO] select blend device id = 0
+07:44:21 [INFO] -----------------------------------
+07:44:21 [INFO]            Fusion System.          
+07:44:21 [INFO]           vision (_v1.3.1)     
+07:44:21 [INFO] Shenzhen YanTu Technology Co., Ltd.
+07:44:21 [INFO]           www.ytsmart.net          
+07:44:21 [INFO] -----------logging begin-----------
+07:44:22 [INFO] Tray install success.
+07:44:25 [INFO] start adjust data:
+07:44:25 [INFO]     computer layout(v:h) = 1:1
+07:44:25 [INFO]     computer index(v:h) = 0:0
+07:44:25 [INFO]     projection layout(v:h) = 1:2
+07:44:25 [INFO]     geometry control(v:h) = 2:2
+07:44:25 [INFO]     geometry precision(v:h) = 4:4
+07:44:25 [INFO]     geometry strategy = Auto
+07:44:25 [INFO]     device resolution = 2K (2048×1080)
+07:44:25 [INFO] begin opengl .
+07:44:28 [INFO] select blend device id = 0
+07:47:24 [INFO] -----------------------------------
+07:47:24 [INFO]            Fusion System.          
+07:47:24 [INFO]           vision (_v1.3.1)     
+07:47:24 [INFO] Shenzhen YanTu Technology Co., Ltd.
+07:47:24 [INFO]           www.ytsmart.net          
+07:47:24 [INFO] -----------logging begin-----------
+07:47:25 [INFO] Tray install success.
+07:47:29 [INFO] start adjust data:
+07:47:29 [INFO]     computer layout(v:h) = 1:1
+07:47:30 [INFO]     computer index(v:h) = 0:0
+07:47:30 [INFO]     projection layout(v:h) = 1:2
+07:47:30 [INFO]     geometry control(v:h) = 2:2
+07:47:30 [INFO]     geometry precision(v:h) = 4:4
+07:47:30 [INFO]     geometry strategy = Auto
+07:47:30 [INFO]     device resolution = 2K (2048×1080)
+07:47:30 [INFO] begin opengl .
+07:47:34 [INFO] select blend device id = 0
+07:47:34 [INFO] opengl initialize.
+07:47:42 [INFO] end opengl .
+07:47:42 [INFO] Tray uninstall success.
+07:47:42 [INFO] ------------logging end------------
+07:47:42 [INFO]         exit fusion system.        
+07:47:42 [INFO] -----------------------------------
+07:47:42 [INFO] 
+
+
+07:47:42 [INFO] Tray uninstall success.
+07:47:54 [INFO] -----------------------------------
+07:47:54 [INFO]            Fusion System.          
+07:47:54 [INFO]           vision (_v1.3.1)     
+07:47:54 [INFO] Shenzhen YanTu Technology Co., Ltd.
+07:47:54 [INFO]           www.ytsmart.net          
+07:47:54 [INFO] -----------logging begin-----------
+07:47:56 [INFO] Tray install success.
+07:47:58 [INFO] start adjust data:
+07:47:58 [INFO]     computer layout(v:h) = 1:1
+07:47:58 [INFO]     computer index(v:h) = 0:0
+07:47:58 [INFO]     projection layout(v:h) = 1:2
+07:47:58 [INFO]     geometry control(v:h) = 2:2
+07:47:58 [INFO]     geometry precision(v:h) = 4:4
+07:47:58 [INFO]     geometry strategy = Auto
+07:47:58 [INFO]     device resolution = 2K (2048×1080)
+07:47:59 [INFO] begin opengl .
+07:48:02 [INFO] select blend device id = 0
+08:06:14 [INFO] -----------------------------------
+08:06:14 [INFO]            Fusion System.          
+08:06:14 [INFO]           vision (_v1.3.1)     
+08:06:14 [INFO] Shenzhen YanTu Technology Co., Ltd.
+08:06:14 [INFO]           www.ytsmart.net          
+08:06:14 [INFO] -----------logging begin-----------
+08:06:18 [INFO] Tray install success.
+08:06:19 [INFO] start adjust data:
+08:06:19 [INFO]     computer layout(v:h) = 1:1
+08:06:19 [INFO]     computer index(v:h) = 0:0
+08:06:19 [INFO]     projection layout(v:h) = 1:2
+08:06:19 [INFO]     geometry control(v:h) = 2:2
+08:06:19 [INFO]     geometry precision(v:h) = 4:4
+08:06:19 [INFO]     geometry strategy = Auto
+08:06:19 [INFO]     device resolution = 2K (2048×1080)
+08:06:19 [INFO] begin opengl .
+08:06:22 [INFO] select blend device id = 0
+08:06:23 [INFO] opengl initialize.
+08:06:26 [INFO] show tools.
+08:06:28 [INFO] end opengl .
+08:06:28 [INFO] Tray uninstall success.
+08:06:28 [INFO] ------------logging end------------
+08:06:28 [INFO]         exit fusion system.        
+08:06:28 [INFO] -----------------------------------
+08:06:28 [INFO] 
+
+
+08:06:28 [INFO] Tray uninstall success.
+08:06:30 [INFO] -----------------------------------
+08:06:30 [INFO]            Fusion System.          
+08:06:30 [INFO]           vision (_v1.3.1)     
+08:06:30 [INFO] Shenzhen YanTu Technology Co., Ltd.
+08:06:30 [INFO]           www.ytsmart.net          
+08:06:30 [INFO] -----------logging begin-----------
+08:06:31 [INFO] Tray install success.
+08:06:32 [INFO] start adjust data:
+08:06:32 [INFO]     computer layout(v:h) = 1:1
+08:06:32 [INFO]     computer index(v:h) = 0:0
+08:06:32 [INFO]     projection layout(v:h) = 1:2
+08:06:32 [INFO]     geometry control(v:h) = 2:2
+08:06:32 [INFO]     geometry precision(v:h) = 4:4
+08:06:32 [INFO]     geometry strategy = Auto
+08:06:32 [INFO]     device resolution = 2K (2048×1080)
+08:06:32 [INFO] begin opengl .
+08:06:36 [INFO] select blend device id = 0
+08:06:37 [INFO] opengl initialize.
+08:06:38 [INFO] show tools.
+08:06:40 [INFO] end opengl .
+08:06:40 [INFO] Tray uninstall success.
+08:06:40 [INFO] ------------logging end------------
+08:06:40 [INFO]         exit fusion system.        
+08:06:40 [INFO] -----------------------------------
+08:06:40 [INFO] 
+
+
+08:06:40 [INFO] Tray uninstall success.
+01:56:35 [INFO] -----------------------------------
+01:56:35 [INFO]            Fusion System.          
+01:56:35 [INFO]           vision (_v1.3.1)     
+01:56:35 [INFO] Shenzhen YanTu Technology Co., Ltd.
+01:56:35 [INFO]           www.ytsmart.net          
+01:56:35 [INFO] -----------logging begin-----------
+01:56:39 [INFO] Tray install success.
+01:56:47 [INFO] load data.
+01:56:47 [INFO] select color device id = 0
+01:56:47 [INFO] select image local = :/image/symbol.png
+01:56:47 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+01:59:54 [INFO] -----------------------------------
+01:59:54 [INFO]            Fusion System.          
+01:59:54 [INFO]           vision (_v1.3.1)     
+01:59:54 [INFO] Shenzhen YanTu Technology Co., Ltd.
+01:59:54 [INFO]           www.ytsmart.net          
+01:59:54 [INFO] -----------logging begin-----------
+01:59:55 [INFO] Tray install success.
+02:00:03 [INFO] load data.
+02:00:03 [INFO] select color device id = 0
+02:00:03 [INFO] select image local = :/image/symbol.png
+02:00:03 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+02:00:03 [INFO] select blend device id = 1
+02:00:04 [INFO] begin opengl .
+02:00:05 [INFO] load data success.
+02:00:05 [INFO] opengl initialize.
+02:00:05 [INFO] opengl load data.
+02:00:06 [INFO] opengl handle image load success.
+02:00:06 [INFO] opengl render load success.
+02:00:06 [INFO] opengl coord data load success.
+02:00:06 [INFO] opengl blend data load success.
+02:00:06 [INFO] opengl load data success.
+02:42:11 [INFO] end opengl .
+02:42:12 [INFO] Tray uninstall success.
+02:42:12 [INFO] ------------logging end------------
+02:42:12 [INFO]         exit fusion system.        
+02:42:12 [INFO] -----------------------------------
+02:42:12 [INFO] 
+
+
+02:42:12 [INFO] Tray uninstall success.
+03:12:26 [INFO] -----------------------------------
+03:12:26 [INFO]            Fusion System.          
+03:12:26 [INFO]           vision (_v1.3.1)     
+03:12:26 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:12:26 [INFO]           www.ytsmart.net          
+03:12:26 [INFO] -----------logging begin-----------
+03:12:26 [INFO] Tray install success.
+03:12:30 [INFO] update widget size(device) = 315*264
+03:12:53 [INFO] update widget size(computer) = 300*240
+03:13:04 [INFO] rendering mode = Image | Blend
+03:13:11 [INFO] select image other :
+03:13:22 [INFO] Tray uninstall success.
+03:13:22 [INFO] ------------logging end------------
+03:13:22 [INFO]         exit fusion system.        
+03:13:22 [INFO] -----------------------------------
+03:13:22 [INFO] 
+
+
+03:13:22 [INFO] Tray uninstall success.
+03:34:37 [INFO] -----------------------------------
+03:34:37 [INFO]            Fusion System.          
+03:34:37 [INFO]           vision (_v1.3.1)     
+03:34:37 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:34:37 [INFO]           www.ytsmart.net          
+03:34:37 [INFO] -----------logging begin-----------
+03:35:44 [INFO] -----------------------------------
+03:35:44 [INFO]            Fusion System.          
+03:35:44 [INFO]           vision (_v1.3.1)     
+03:35:44 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:35:44 [INFO]           www.ytsmart.net          
+03:35:44 [INFO] -----------logging begin-----------
+03:36:01 [INFO] -----------------------------------
+03:36:01 [INFO]            Fusion System.          
+03:36:01 [INFO]           vision (_v1.3.1)     
+03:36:01 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:36:01 [INFO]           www.ytsmart.net          
+03:36:01 [INFO] -----------logging begin-----------
+03:37:43 [INFO] -----------------------------------
+03:37:43 [INFO]            Fusion System.          
+03:37:43 [INFO]           vision (_v1.3.1)     
+03:37:43 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:37:43 [INFO]           www.ytsmart.net          
+03:37:43 [INFO] -----------logging begin-----------
+03:37:44 [INFO] Tray install success.
+03:37:51 [INFO] load data.
+03:37:51 [INFO] select color device id = 0
+03:37:51 [INFO] select image local = :/image/symbol.png
+03:37:51 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:39:47 [INFO] -----------------------------------
+03:39:47 [INFO]            Fusion System.          
+03:39:47 [INFO]           vision (_v1.3.1)     
+03:39:47 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:39:47 [INFO]           www.ytsmart.net          
+03:39:47 [INFO] -----------logging begin-----------
+03:39:48 [INFO] Tray install success.
+03:40:03 [INFO] load data.
+03:40:03 [INFO] select color device id = 0
+03:40:03 [INFO] select image local = :/image/symbol.png
+03:40:03 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:40:03 [INFO] select blend device id = 1
+03:40:04 [INFO] begin opengl .
+03:40:05 [INFO] load data success.
+03:40:05 [INFO] opengl initialize.
+03:40:05 [INFO] opengl load data.
+03:40:05 [INFO] opengl handle image load success.
+03:40:05 [INFO] opengl render load success.
+03:40:05 [INFO] opengl coord data load success.
+03:40:05 [INFO] opengl blend data load success.
+03:40:05 [INFO] opengl load data success.
+03:40:29 [INFO] rendering mode = Image | Blend
+03:40:37 [INFO] select image other :
+03:40:37 [INFO]     path =  C:/Users/lita.png
+03:40:39 [INFO] select image other = C:/Users/Public/Pictures/Sample Pictures/Chrysanthemum.jpg
+03:40:42 [INFO] select image local = :/image/symbol.png
+03:40:47 [INFO] update widget size(device) = 380*280
+03:41:30 [INFO] Tray uninstall success.
+03:41:52 [INFO] -----------------------------------
+03:41:52 [INFO]            Fusion System.          
+03:41:52 [INFO]           vision (_v1.3.1)     
+03:41:52 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:41:52 [INFO]           www.ytsmart.net          
+03:41:52 [INFO] -----------logging begin-----------
+03:41:55 [INFO] Tray install success.
+03:41:58 [INFO] load data.
+03:41:58 [INFO] select color device id = 0
+03:41:58 [INFO] select image local = :/image/symbol.png
+03:41:58 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:41:58 [INFO] select blend device id = 1
+03:41:58 [INFO] begin opengl .
+03:42:06 [INFO] load data success.
+03:42:06 [INFO] opengl initialize.
+03:42:06 [INFO] opengl load data.
+03:42:06 [INFO] opengl handle image load success.
+03:42:06 [INFO] opengl render load success.
+03:42:06 [INFO] opengl coord data load success.
+03:42:06 [INFO] opengl blend data load success.
+03:42:06 [INFO] opengl load data success.
+03:43:59 [INFO] -----------------------------------
+03:43:59 [INFO]            Fusion System.          
+03:43:59 [INFO]           vision (_v1.3.1)     
+03:43:59 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:43:59 [INFO]           www.ytsmart.net          
+03:43:59 [INFO] -----------logging begin-----------
+03:44:00 [INFO] Tray install success.
+03:44:03 [INFO] load data.
+03:44:03 [INFO] select color device id = 0
+03:44:03 [INFO] select image local = :/image/symbol.png
+03:44:03 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:44:04 [INFO] select blend device id = 1
+03:44:04 [INFO] begin opengl .
+03:44:05 [INFO] load data success.
+03:44:05 [INFO] opengl initialize.
+03:44:05 [INFO] opengl load data.
+03:44:05 [INFO] opengl handle image load success.
+03:44:05 [INFO] opengl render load success.
+03:44:05 [INFO] opengl coord data load success.
+03:44:05 [INFO] opengl blend data load success.
+03:44:05 [INFO] opengl load data success.
+03:44:12 [INFO] update widget size(device) = 380*280
+03:44:30 [INFO] end opengl .
+03:44:31 [INFO] Tray uninstall success.
+03:44:31 [INFO] ------------logging end------------
+03:44:31 [INFO]         exit fusion system.        
+03:44:31 [INFO] -----------------------------------
+03:44:31 [INFO] 
+
+
+03:44:31 [INFO] Tray uninstall success.
+03:44:53 [INFO] -----------------------------------
+03:44:53 [INFO]            Fusion System.          
+03:44:53 [INFO]           vision (_v1.3.1)     
+03:44:53 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:44:53 [INFO]           www.ytsmart.net          
+03:44:53 [INFO] -----------logging begin-----------
+03:44:53 [INFO] Tray install success.
+03:45:00 [INFO] load data.
+03:45:00 [INFO] select color device id = 0
+03:45:00 [INFO] select image local = :/image/symbol.png
+03:45:00 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:45:01 [INFO] select blend device id = 1
+03:45:01 [INFO] begin opengl .
+03:45:02 [INFO] load data success.
+03:45:02 [INFO] opengl initialize.
+03:45:02 [INFO] opengl load data.
+03:45:03 [INFO] opengl handle image load success.
+03:45:03 [INFO] opengl render load success.
+03:45:03 [INFO] opengl coord data load success.
+03:45:03 [INFO] opengl blend data load success.
+03:45:03 [INFO] opengl load data success.
+03:45:09 [INFO] update widget size(device) = 380*280
+03:45:20 [INFO] end opengl .
+03:45:21 [INFO] Tray uninstall success.
+03:45:21 [INFO] ------------logging end------------
+03:45:21 [INFO]         exit fusion system.        
+03:45:21 [INFO] -----------------------------------
+03:45:21 [INFO] 
+
+
+03:45:21 [INFO] Tray uninstall success.
+03:48:32 [INFO] -----------------------------------
+03:48:32 [INFO]            Fusion System.          
+03:48:32 [INFO]           vision (_v1.3.1)     
+03:48:32 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:48:32 [INFO]           www.ytsmart.net          
+03:48:32 [INFO] -----------logging begin-----------
+03:48:32 [INFO] Tray install success.
+03:48:47 [INFO] load data.
+03:48:47 [INFO] select color device id = 0
+03:48:47 [INFO] select image local = :/image/symbol.png
+03:48:47 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:48:48 [INFO] select blend device id = 1
+03:48:48 [INFO] begin opengl .
+03:48:49 [INFO] load data success.
+03:48:50 [INFO] opengl initialize.
+03:48:50 [INFO] opengl load data.
+03:48:50 [INFO] opengl handle image load success.
+03:48:50 [INFO] opengl render load success.
+03:48:50 [INFO] opengl coord data load success.
+03:48:50 [INFO] opengl blend data load success.
+03:48:50 [INFO] opengl load data success.
+03:48:53 [INFO] update widget size(device) = 380*280
+03:49:06 [INFO] end opengl .
+03:49:07 [INFO] Tray uninstall success.
+03:49:07 [INFO] ------------logging end------------
+03:49:07 [INFO]         exit fusion system.        
+03:49:07 [INFO] -----------------------------------
+03:49:07 [INFO] 
+
+
+03:49:07 [INFO] Tray uninstall success.
+03:49:26 [INFO] -----------------------------------
+03:49:26 [INFO]            Fusion System.          
+03:49:26 [INFO]           vision (_v1.3.1)     
+03:49:26 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:49:26 [INFO]           www.ytsmart.net          
+03:49:26 [INFO] -----------logging begin-----------
+03:49:27 [INFO] Tray install success.
+03:49:30 [INFO] load data.
+03:49:30 [INFO] select color device id = 0
+03:49:30 [INFO] select image local = :/image/symbol.png
+03:49:30 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:49:30 [INFO] select blend device id = 1
+03:49:31 [INFO] begin opengl .
+03:49:32 [INFO] load data success.
+03:49:32 [INFO] opengl initialize.
+03:49:32 [INFO] opengl load data.
+03:49:32 [INFO] opengl handle image load success.
+03:49:32 [INFO] opengl render load success.
+03:49:32 [INFO] opengl coord data load success.
+03:49:32 [INFO] opengl blend data load success.
+03:49:32 [INFO] opengl load data success.
+03:49:36 [INFO] update widget size(device) = 380*280
+03:49:55 [INFO] update widget size(device) = 1305*280
+03:50:01 [INFO] end opengl .
+03:50:01 [INFO] Tray uninstall success.
+03:50:01 [INFO] ------------logging end------------
+03:50:01 [INFO]         exit fusion system.        
+03:50:01 [INFO] -----------------------------------
+03:50:01 [INFO] 
+
+
+03:50:01 [INFO] Tray uninstall success.
+03:51:02 [INFO] -----------------------------------
+03:51:02 [INFO]            Fusion System.          
+03:51:02 [INFO]           vision (_v1.3.1)     
+03:51:02 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:51:02 [INFO]           www.ytsmart.net          
+03:51:02 [INFO] -----------logging begin-----------
+03:51:03 [INFO] Tray install success.
+03:51:05 [INFO] load data.
+03:51:05 [INFO] select color device id = 0
+03:51:05 [INFO] select image local = :/image/symbol.png
+03:51:05 [INFO] select media = D:/YanTu/Fusion/etc/media/video/春景.avi
+03:51:06 [INFO] select blend device id = 1
+03:51:06 [INFO] begin opengl .
+03:51:07 [INFO] load data success.
+03:51:07 [INFO] opengl initialize.
+03:51:07 [INFO] opengl load data.
+03:51:08 [INFO] opengl handle image load success.
+03:51:08 [INFO] opengl render load success.
+03:51:08 [INFO] opengl coord data load success.
+03:51:08 [INFO] opengl blend data load success.
+03:51:08 [INFO] opengl load data success.
+03:51:12 [INFO] update widget size(device) = 380*280
+03:51:17 [INFO] update widget size(device) = 1267*280
+03:51:24 [INFO] update widget size(device) = 1501*280
+03:51:54 [INFO] end opengl .
+03:51:55 [INFO] Tray uninstall success.
+03:51:55 [INFO] ------------logging end------------
+03:51:55 [INFO]         exit fusion system.        
+03:51:55 [INFO] -----------------------------------
+03:51:55 [INFO] 
+
+
+03:51:55 [INFO] Tray uninstall success.
+03:54:38 [INFO] -----------------------------------
+03:54:38 [INFO]            Fusion System.          
+03:54:38 [INFO]           vision (_v1.3.1)     
+03:54:38 [INFO] Shenzhen YanTu Technology Co., Ltd.
+03:54:38 [INFO]           www.ytsmart.net          
+03:54:38 [INFO] -----------logging begin-----------
+03:54:38 [INFO] Tray install success.
+03:54:41 [INFO] update widget size(device) = 380*280
+03:54:46 [INFO] Tray uninstall success.
+03:54:46 [INFO] ------------logging end------------
+03:54:46 [INFO]         exit fusion system.        
+03:54:46 [INFO] -----------------------------------
+03:54:46 [INFO] 
+
+
+03:54:46 [INFO] Tray uninstall success.
+04:02:50 [INFO] -----------------------------------
+04:02:50 [INFO]            Fusion System.          
+04:02:50 [INFO]           vision (_v1.3.1)     
+04:02:50 [INFO] Shenzhen YanTu Technology Co., Ltd.
+04:02:50 [INFO]           www.ytsmart.net          
+04:02:50 [INFO] -----------logging begin-----------
+04:02:51 [INFO] Tray install success.
+04:02:56 [INFO] Tray uninstall success.
+04:02:56 [INFO] ------------logging end------------
+04:02:56 [INFO]         exit fusion system.        
+04:02:56 [INFO] -----------------------------------
+04:02:56 [INFO] 
+
+
+04:02:56 [INFO] Tray uninstall success.
+04:03:27 [INFO] -----------------------------------
+04:03:27 [INFO]            Fusion System.          
+04:03:27 [INFO]           vision (_v1.3.1)     
+04:03:27 [INFO] Shenzhen YanTu Technology Co., Ltd.
+04:03:27 [INFO]           www.ytsmart.net          
+04:03:27 [INFO] -----------logging begin-----------
+04:03:28 [INFO] Tray install success.
+04:03:31 [ERROR] Validation license error!
+04:03:33 [INFO] Tray uninstall success.
+04:03:33 [INFO] ------------logging end------------
+04:03:33 [INFO]         exit fusion system.        
+04:03:33 [INFO] -----------------------------------
+04:03:33 [INFO] 
+
+
+04:03:33 [INFO] Tray uninstall success.

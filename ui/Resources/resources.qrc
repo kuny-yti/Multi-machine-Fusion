@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>letter.png</file>
+        <file>mesh.png</file>
+        <file>symbol.png</file>
+        <file>yantu.ico</file>
+        <file>cursors.png</file>
+        <file>yantu.png</file>
+        <file>yantu1.png</file>
+        <file>yantu512.ico</file>
+        <file>yantucolor.png</file>
+        <file>yantuwriting.png</file>
+        <file>yantuwz.png</file>
+        <file>color.png</file>
+        <file>control.png</file>
+        <file>device.png</file>
+        <file>display.png</file>
+        <file>geometry.png</file>
+        <file>media.png</file>
+        <file>system.png</file>
+        <file>watermark.png</file>
+    </qresource>
+</RCC>

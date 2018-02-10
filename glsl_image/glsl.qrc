@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/glsl">
+        <file>vertex.gl.glsl</file>
+        <file>image.gl.glsl</file>
+    </qresource>
+</RCC>

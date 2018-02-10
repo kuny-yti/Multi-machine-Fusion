@@ -1,0 +1,11 @@
+{
+    "Keys": [ "tcp_plugin" ],
+    "name" : "tcp_server",
+    "version" : "1.0.1",
+    "vendor": "Shenzhen City Tree spectra Technology Ltd.",
+    "copyright": "Shenzhen City Tree spectra Technology Ltd.",
+    "license": "GPL3 or Qt",
+    "description": "Responsible for communication between systems and networks, will be effective communication and control data and subsystems.",
+    "category": "Cross-system communication layer",
+    "dependencies" : []
+}
