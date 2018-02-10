@@ -1,4 +1,4 @@
-# Multi-Machine-Fusion
+# Multi-machine-Fusion
 多机同步播放拼接融合系统(Multi-Machine-Fusion)
 
   此系统完成将多投影仪画面进行空间拼接和混合。此系统是个人从事展览展示行业多年的研发成果和精力完成的一套一体化软件。
