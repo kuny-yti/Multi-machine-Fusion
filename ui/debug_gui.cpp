@@ -586,17 +586,3 @@ void debug_gui::on_blend_bottom_gamma_slider_sliderMoved(int value)
     raw_config().blend_config = current_data();
     control(Command_BlendBottom);
 }
-
-void debug_gui::on_ext_area_adjust_clicked()
-{
-    if (!aadjust)
-    {
-        aadjust = new area_adjust;
-        QByteArray temp = device_area->serialize();
-        aadjust->unserialize(temp);
-    }
-    if (!aadjust->isHidden())
-        aadjust->hide();
-    else
-        aadjust->show();
-}

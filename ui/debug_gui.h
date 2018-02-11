@@ -3,7 +3,6 @@
 
 #include "ui_debug_gui.h"
 #include "ctrl.h"
-#include "area_adjust.h"
 
 class debug_gui : public QWidget, private Ui::debug_gui, private ctrl
 {
@@ -51,15 +50,11 @@ private slots:
     void on_blend_bottom_gamma_spin_valueChanged(double arg1);
     void on_blend_bottom_gamma_slider_sliderMoved(int value);
 
-    void on_ext_area_adjust_clicked();
-
 private:
     int dock_direction;
 
     class gui_config *guicf;
     QVector<QVector <BlendConfig> > blend_config;
-
-    area_adjust      *aadjust;
 private:
     //! 接受命令
     virtual void command(const int& cmd);

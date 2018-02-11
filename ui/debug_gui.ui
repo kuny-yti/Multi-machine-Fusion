@@ -39,7 +39,7 @@
       <enum>QTabWidget::Triangular</enum>
      </property>
      <property name="currentIndex">
-      <number>3</number>
+      <number>0</number>
      </property>
      <widget class="QWidget" name="Computer_Area">
       <attribute name="title">
@@ -1485,24 +1485,6 @@
         </widget>
        </item>
       </layout>
-     </widget>
-     <widget class="QWidget" name="tab">
-      <attribute name="title">
-       <string>EXT</string>
-      </attribute>
-      <widget class="QPushButton" name="ext_area_adjust">
-       <property name="geometry">
-        <rect>
-         <x>20</x>
-         <y>10</y>
-         <width>75</width>
-         <height>23</height>
-        </rect>
-       </property>
-       <property name="text">
-        <string>Area Adjust</string>
-       </property>
-      </widget>
      </widget>
     </widget>
    </item>

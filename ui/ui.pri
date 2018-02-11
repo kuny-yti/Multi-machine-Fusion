@@ -7,8 +7,7 @@ FORMS += \
     $$PWD/tools_gui.ui \
     $$PWD/debug_gui.ui \
     $$PWD/color_gui.ui \
-    $$PWD/computer_gui.ui \
-    $$PWD/area_adjust.ui
+    $$PWD/computer_gui.ui
 
 HEADERS += \
     $$PWD/tools_gui.h \
@@ -39,8 +38,7 @@ SOURCES += \
     $$PWD/system_config.cpp \
     $$PWD/color_gui.cpp \
     $$PWD/computer_gui.cpp \
-    $$PWD/direct_show.cpp \
-    $$PWD/area_adjust.cpp
+    $$PWD/direct_show.cpp
 
 RESOURCES += \
     $$PWD/Resources/resources.qrc
