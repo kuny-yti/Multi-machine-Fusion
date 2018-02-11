@@ -23,8 +23,7 @@ HEADERS += \
     $$PWD/gui_config.h \
     $$PWD/color_gui.h \
     $$PWD/computer_gui.h \
-    $$PWD/direct_show.h \
-    $$PWD/area_adjust.h
+    $$PWD/direct_show.h 
 
 SOURCES += \
     $$PWD/tools_gui.cpp \
